@@ -1,0 +1,292 @@
+TaxonomicGroup,Species(3 letter codes follow KEGG nomenclature),PAMLmodel,GeneGroup,dS,dN,omega (dN/dS)
+Primates,ConcatenatedAlignment,0,Mt,4.5764,0.4285,0.09363255
+Primates,ConcatenatedAlignment,0,Nuc-OXPHOS,0.4509,0.1824,0.404524285
+Primates,ConcatenatedAlignment,0,Nuc-Glycolysis,1.2978,0.4842,0.373092926
+Primates,Homo sapiens (human),1,Mt,0.174557,0.011004,0.06303958
+Primates,Pan troglodytes (chimpanzee),1,Mt,0.069893,0.007284,0.104216445
+Primates,Pan paniscus (bonobo),1,Mt,0.057439,0.00542,0.094360974
+Primates,Pongo abelii (Sumatran orangutan),1,Mt,0.330937,0.041396,0.125087252
+Primates,Nomascus leucogenys (northern white-cheeked gibbon),1,Mt,0.372457,0.037823,0.101549978
+Primates,Macaca mulatta (rhesus monkey),1,Mt,0.14022,0.017154,0.122336329
+Primates,Macaca fascicularis (crab-eating macaque),1,Mt,0.126515,0.014716,0.116318223
+Primates,Rhinopithecus roxellaConcatenatedAlignment (golden snub-nosed monkey),1,Mt,0.702962,0.046301,0.06586558
+Primates,Callithrix jacchus (white-tufted-ear marmoset),1,Mt,2.302693,0.122382,0.053147337
+Primates,Homo sapiens (human),1,Nuc-OXPHOS,0.024039,0.011889,0.494571322
+Primates,Pan troglodytes (chimpanzee),1,Nuc-OXPHOS,0.010364,0.009414,0.90833655
+Primates,Pan paniscus (bonobo),1,Nuc-OXPHOS,0.026646,0.015362,0.576521804
+Primates,Pongo abelii (Sumatran orangutan),1,Nuc-OXPHOS,0.046174,0.01719,0.372287434
+Primates,Nomascus leucogenys (northern white-cheeked gibbon),1,Nuc-OXPHOS,0.03363,0.015061,0.447844187
+Primates,Macaca mulatta (rhesus monkey),1,Nuc-OXPHOS,0.013791,0.010034,0.727575955
+Primates,Macaca fascicularis (crab-eating macaque),1,Nuc-OXPHOS,0.030123,0.01615,0.536135179
+Primates,Rhinopithecus roxellaConcatenatedAlignment (golden snub-nosed monkey),1,Nuc-OXPHOS,0.04071,0.020235,0.497052321
+Primates,Callithrix jacchus (white-tufted-ear marmoset),1,Nuc-OXPHOS,0.121706,0.035645,0.292877919
+Primates,Homo sapiens (human),1,Nuc-Glycolysis,0.080054,0.030268,0.378094786
+Primates,Pan troglodytes (chimpanzee),1,Nuc-Glycolysis,0.065472,0.02986,0.456072825
+Primates,Pan paniscus (bonobo),1,Nuc-Glycolysis,0.099197,0.037269,0.375706927
+Primates,Pongo abelii (Sumatran orangutan),1,Nuc-Glycolysis,0.135139,0.046891,0.346983476
+Primates,Nomascus leucogenys (northern white-cheeked gibbon),1,Nuc-Glycolysis,0.204868,0.089482,0.436778804
+Primates,Macaca mulatta (rhesus monkey),1,Nuc-Glycolysis,0.143233,0.058608,0.409179449
+Primates,Macaca fascicularis (crab-eating macaque),1,Nuc-Glycolysis,0.057303,0.02177,0.379910301
+Primates,Rhinopithecus roxellaConcatenatedAlignment (golden snub-nosed monkey),1,Nuc-Glycolysis,0.140932,0.055295,0.39235234
+Primates,Callithrix jacchus (white-tufted-ear marmoset),1,Nuc-Glycolysis,0.2048,0.06165,0.301025391
+Rodents,ConcatenatedAlignment,0,Mt,5.7378,0.3625,0.063177524
+Rodents,ConcatenatedAlignment,0,Nuc-OXPHOS,0.9696,0.1695,0.174814356
+Rodents,ConcatenatedAlignment,0,Nuc-Glycolysis,1.4072,0.2871,0.204022172
+Rodents,Heterocephalus glaber (ConcatenatedAlignmentked mole rat),1,Mt,1.170544,0.110068,0.094031493
+Rodents,ConcatenatedAlignmentnnospalax galili (Upper Galilee mountains blind mole rat),1,Mt,0.93012,0.066099,0.071065024
+Rodents,Cricetulus griseus (Chinese hamster),1,Mt,1.264794,0.064721,0.051171179
+Rodents,Mus musculus (mouse),1,Mt,0.707846,0.029663,0.041906008
+Rodents,Rattus norvegicus (rat),1,Mt,0.663031,0.028518,0.043011564
+Rodents,Heterocephalus glaber (ConcatenatedAlignmentked mole rat),1,Nuc-OXPHOS,0.285453,0.0511,0.179013708
+Rodents,ConcatenatedAlignmentnnospalax galili (Upper Galilee mountains blind mole rat),1,Nuc-OXPHOS,0.178706,0.029812,0.166821483
+Rodents,Cricetulus griseus (Chinese hamster),1,Nuc-OXPHOS,0.141568,0.031904,0.225361664
+Rodents,Mus musculus (mouse),1,Nuc-OXPHOS,0.095029,0.01336,0.140588662
+Rodents,Rattus norvegicus (rat),1,Nuc-OXPHOS,0.103666,0.01854,0.178843594
+Rodents,Heterocephalus glaber (ConcatenatedAlignmentked mole rat),1,Nuc-Glycolysis,0.373321,0.057322,0.153546144
+Rodents,ConcatenatedAlignmentnnospalax galili (Upper Galilee mountains blind mole rat),1,Nuc-Glycolysis,0.31171,0.087285,0.28001989
+Rodents,Cricetulus griseus (Chinese hamster),1,Nuc-Glycolysis,0.236856,0.050827,0.2145903
+Rodents,Mus musculus (mouse),1,Nuc-Glycolysis,0.167856,0.032145,0.191503432
+Rodents,Rattus norvegicus (rat),1,Nuc-Glycolysis,0.123218,0.023927,0.194184291
+Cetartiodactyls,ConcatenatedAlignment,0,Mt,5.0923,0.301,0.059108851
+Cetartiodactyls,ConcatenatedAlignment,0,Nuc-OXPHOS,0.9261,0.2346,0.253320376
+Cetartiodactyls,ConcatenatedAlignment,0,Nuc-Glycolysis,1.8121,0.5769,0.318359914
+Cetartiodactyls,Equus caballus (horse),1,Mt,0.69073,0.039958,0.057848942
+Cetartiodactyls,Camelus ferus (Wild Bactrian camel),1,Mt,1.275101,0.04647,0.036444172
+Cetartiodactyls,Lipotes vexillifer (Yangtze River dolphin),1,Mt,0.58033,0.072985,0.125764651
+Cetartiodactyls,Sus scrofa (pig),1,Mt,0.66872,0.03952,0.059097978
+Cetartiodactyls,Bos mutus (wild yak),1,Mt,0.104408,0.005699,0.05458394
+Cetartiodactyls,Bos taurus (cow),1,Mt,0.141431,0.006233,0.04407096
+Cetartiodactyls,Pantholops hodgsonii (chiru),1,Mt,0.261952,0.009417,0.035949334
+Cetartiodactyls,Ovis aries (sheep),1,Mt,0.239167,0.008991,0.037592979
+Cetartiodactyls,Capra hircus (goat),1,Mt,0.230103,0.013102,0.056939718
+Cetartiodactyls,Equus caballus (horse),1,Nuc-OXPHOS,0.16698,0.030518,0.182764403
+Cetartiodactyls,Camelus ferus (Wild Bactrian camel),1,Nuc-OXPHOS,0.133398,0.02907,0.217919309
+Cetartiodactyls,Lipotes vexillifer (Yangtze River dolphin),1,Nuc-OXPHOS,0.088451,0.019892,0.224892879
+Cetartiodactyls,Sus scrofa (pig),1,Nuc-OXPHOS,0.1411,0.023334,0.165372077
+Cetartiodactyls,Bos mutus (wild yak),1,Nuc-OXPHOS,0.021982,0.013769,0.626376126
+Cetartiodactyls,Bos taurus (cow),1,Nuc-OXPHOS,0.025689,0.009226,0.359142045
+Cetartiodactyls,Pantholops hodgsonii (chiru),1,Nuc-OXPHOS,0.042149,0.019698,0.467342048
+Cetartiodactyls,Ovis aries (sheep),1,Nuc-OXPHOS,0.030487,0.013119,0.43031456
+Cetartiodactyls,Capra hircus (goat),1,Nuc-OXPHOS,0.049386,0.026719,0.541023772
+Cetartiodactyls,Equus caballus (horse),1,Nuc-Glycolysis,0.261714,0.076631,0.292804359
+Cetartiodactyls,Camelus ferus (Wild Bactrian camel),1,Nuc-Glycolysis,0.239852,0.071502,0.298108834
+Cetartiodactyls,Lipotes vexillifer (Yangtze River dolphin),1,Nuc-Glycolysis,0.169162,0.049038,0.2898878
+Cetartiodactyls,Sus scrofa (pig),1,Nuc-Glycolysis,0.211255,0.042064,0.199114814
+Cetartiodactyls,Bos mutus (wild yak),1,Nuc-Glycolysis,0.134983,0.060707,0.449738115
+Cetartiodactyls,Bos taurus (cow),1,Nuc-Glycolysis,0.127895,0.048194,0.376824739
+Cetartiodactyls,Pantholops hodgsonii (chiru),1,Nuc-Glycolysis,0.113146,0.046205,0.408366182
+Cetartiodactyls,Ovis aries (sheep),1,Nuc-Glycolysis,0.187521,0.081786,0.436143152
+Cetartiodactyls,Capra hircus (goat),1,Nuc-Glycolysis,0.150023,0.053202,0.354625624
+Carnivores,ConcatenatedAlignment,0,Mt,3.258,0.1302,0.039963168
+Carnivores,ConcatenatedAlignment,0,Nuc-OXPHOS,0.4005,0.0859,0.214481898
+Carnivores,ConcatenatedAlignment,0,Nuc-Glycolysis,0.7674,0.2304,0.300234558
+Carnivores,Felis catus (domestic cat),1,Mt,1.22123,0.034863,0.028547448
+Carnivores,Canis familiaris (dog),1,Mt,1.468208,0.030272,0.020618332
+Carnivores,Ursus maritimus (polar bear),1,Mt,0.449473,0.025428,0.05657292
+Carnivores,Ailuropoda melanoleuca (giant panda),1,Mt,0.45397,0.023019,0.050705994
+Carnivores,Felis catus (domestic cat),1,Nuc-OXPHOS,0.135618,0.02318,0.170921264
+Carnivores,Canis familiaris (dog),1,Nuc-OXPHOS,0.11091,0.01801,0.162383915
+Carnivores,Ursus maritimus (polar bear),1,Nuc-OXPHOS,0.041947,0.019464,0.464014113
+Carnivores,Ailuropoda melanoleuca (giant panda),1,Nuc-OXPHOS,0.052018,0.018197,0.349821216
+Carnivores,Felis catus (domestic cat),1,Nuc-Glycolysis,0.18887,0.044478,0.235495314
+Carnivores,Canis familiaris (dog),1,Nuc-Glycolysis,0.214246,0.067571,0.315389786
+Carnivores,Ursus maritimus (polar bear),1,Nuc-Glycolysis,0.221212,0.092226,0.416912283
+Carnivores,Ailuropoda melanoleuca (giant panda),1,Nuc-Glycolysis,0.042659,0.012686,0.297381561
+Bats,ConcatenatedAlignment,0,Mt,2.5911,0.1602,0.061827023
+Bats,ConcatenatedAlignment,0,Nuc-OXPHOS,0.3599,0.0748,0.20783551
+Bats,ConcatenatedAlignment,0,Nuc-Glycolysis,0.6974,0.1929,0.276598796
+Bats,Myotis brandtii (Brandt's bat),1,Mt,0.35028,0.016572,0.047310723
+Bats,Myotis davidii,1,Mt,0.652814,0.060515,0.092698686
+Bats,Pteropus alecto (black flying fox),1,Mt,1.986984,0.084068,0.042309349
+Bats,Myotis brandtii (Brandt's bat),1,Nuc-OXPHOS,0.031772,0.013142,0.413634647
+Bats,Myotis davidii,1,Nuc-OXPHOS,0.051033,0.016296,0.319322791
+Bats,Pteropus alecto (black flying fox),1,Nuc-OXPHOS,0.282371,0.045281,0.160359952
+Bats,Myotis brandtii (Brandt's bat),1,Nuc-Glycolysis,0.161301,0.044327,0.274809208
+Bats,Myotis davidii,1,Nuc-Glycolysis,0.154404,0.058227,0.377108106
+Bats,Pteropus alecto (black flying fox),1,Nuc-Glycolysis,0.38758,0.09017,0.232648743
+Birds,ConcatenatedAlignment,0,Mt,6.1871,0.421,0.068044803
+Birds,ConcatenatedAlignment,0,Nuc-OXPHOS,1.9184,0.4353,0.22690784
+Birds,ConcatenatedAlignment,0,Nuc-Glycolysis,2.7537,0.7413,0.269201438
+Birds,Gallus gallus (chicken),1,Mt,0.275352,0.015902,0.057751533
+Birds,Meleagris gallopavo (turkey),1,Mt,0.576237,0.02404,0.041718946
+Birds,AConcatenatedAlignments platyrhynchos (mallard),1,Mt,0.803278,0.037831,0.047095775
+Birds,Columba livia (rock pigeon),1,Mt,0.894491,0.067193,0.075118699
+Birds,Ficedula albicollis (collared flycatcher),1,Mt,0.417798,0.023627,0.056551252
+Birds,Taeniopygia guttata (zebra finch),1,Mt,0.468245,0.030408,0.064940362
+Birds,Pseudopodoces humilis (Tibetan ground-tit),1,Mt,0.429855,0.023531,0.054741715
+Birds,Falco peregrinus (peregrine falcon),1,Mt,0.08824,0.002797,0.031697643
+Birds,Falco cherrug (Saker falcon),1,Mt,0.065824,0.003941,0.059871779
+Birds,Corvus cornix (hooded crow),1,Mt,0.572103,0.029776,0.052046572
+Birds,Gallus gallus (chicken),1,Nuc-OXPHOS,0.071188,0.016309,0.229097601
+Birds,Meleagris gallopavo (turkey),1,Nuc-OXPHOS,0.114892,0.040446,0.352034955
+Birds,AConcatenatedAlignments platyrhynchos (mallard),1,Nuc-OXPHOS,0.190096,0.056389,0.296634332
+Birds,Columba livia (rock pigeon),1,Nuc-OXPHOS,0.349912,0.062642,0.179022154
+Birds,Ficedula albicollis (collared flycatcher),1,Nuc-OXPHOS,0.12783,0.045825,0.358483924
+Birds,Taeniopygia guttata (zebra finch),1,Nuc-OXPHOS,0.090086,0.027066,0.30044624
+Birds,Pseudopodoces humilis (Tibetan ground-tit),1,Nuc-OXPHOS,0.092936,0.017051,0.183470345
+Birds,Falco peregrinus (peregrine falcon),1,Nuc-OXPHOS,0.00683,0.005782,0.846559297
+Birds,Falco cherrug (Saker falcon),1,Nuc-OXPHOS,0.014527,0.013196,0.908377504
+Birds,Corvus cornix (hooded crow),1,Nuc-OXPHOS,0.088898,0.031707,0.356667192
+Birds,Gallus gallus (chicken),1,Nuc-Glycolysis,0.285963,0.092137,0.322199026
+Birds,Meleagris gallopavo (turkey),1,Nuc-Glycolysis,0.143405,0.037421,0.260946271
+Birds,AConcatenatedAlignments platyrhynchos (mallard),1,Nuc-Glycolysis,0.23512,0.052238,0.22217591
+Birds,Columba livia (rock pigeon),1,Nuc-Glycolysis,0.349482,0.087354,0.249952787
+Birds,Ficedula albicollis (collared flycatcher),1,Nuc-Glycolysis,0.221077,0.096544,0.436698526
+Birds,Taeniopygia guttata (zebra finch),1,Nuc-Glycolysis,0.127349,0.030766,0.241588077
+Birds,Pseudopodoces humilis (Tibetan ground-tit),1,Nuc-Glycolysis,0.356497,0.097501,0.273497393
+Birds,Falco peregrinus (peregrine falcon),1,Nuc-Glycolysis,0.114132,0.049288,0.431850839
+Birds,Falco cherrug (Saker falcon),1,Nuc-Glycolysis,0.07388,0.041748,0.565078506
+Birds,Corvus cornix (hooded crow),1,Nuc-Glycolysis,0.170337,0.065434,0.384144373
+Reptiles,ConcatenatedAlignment,0,Mt,5.7421,0.5581,0.097194406
+Reptiles,ConcatenatedAlignment,0,Nuc-OXPHOS,1.8086,0.531,0.293597258
+Reptiles,ConcatenatedAlignment,0,Nuc-Glycolysis,1.9463,0.4238,0.217746493
+Reptiles,Anolis carolinensis (green anole),1,Mt,2.980855,0.130049,0.043628087
+Reptiles,Alligator sinensis (Chinese alligator),1,Mt,0.493211,0.047293,0.095887967
+Reptiles,Alligator mississippiensis (American alligator),1,Mt,0.291443,0.035836,0.122960579
+Reptiles,Pelodiscus sinensis (Chinese soft-shelled turtle),1,Mt,0.696977,0.08061,0.115656614
+Reptiles,Chelonia mydas (green sea turtle),1,Mt,0.482825,0.041836,0.086648372
+Reptiles,Anolis carolinensis (green anole),1,Nuc-OXPHOS,0.749552,0.073638,0.098242684
+Reptiles,Alligator sinensis (Chinese alligator),1,Nuc-OXPHOS,0.080738,0.031008,0.384057073
+Reptiles,Alligator mississippiensis (American alligator),1,Nuc-OXPHOS,0.235583,0.263355,1.117886265
+Reptiles,Pelodiscus sinensis (Chinese soft-shelled turtle),1,Nuc-OXPHOS,0.181643,0.063441,0.349262014
+Reptiles,Chelonia mydas (green sea turtle),1,Nuc-OXPHOS,0.158822,0.034192,0.215285036
+Reptiles,Anolis carolinensis (green anole),1,Nuc-Glycolysis,0.90451,0.123791,0.136859736
+Reptiles,Alligator sinensis (Chinese alligator),1,Nuc-Glycolysis,0.122921,0.060542,0.492527721
+Reptiles,Alligator mississippiensis (American alligator),1,Nuc-Glycolysis,0.216504,0.081701,0.377364852
+Reptiles,Pelodiscus sinensis (Chinese soft-shelled turtle),1,Nuc-Glycolysis,0.263166,0.053051,0.201587591
+Reptiles,Chelonia mydas (green sea turtle),1,Nuc-Glycolysis,0.164065,0.045879,0.279639167
+Amphibians,ConcatenatedAlignment,0,Mt,2.15538,0.07554,0.035047184
+Amphibians,ConcatenatedAlignment,0,Nuc-OXPHOS,0.37082,0.05154,0.138989267
+Amphibians,ConcatenatedAlignment,0,Nuc-Glycolysis,0.36974,0.07024,0.189971331
+Amphibians,Xenopus laevis (African clawed frog) and Xenopus tropicalis (western clawed frog),1,Mt,2.15538,0.07554,0.035047184
+Amphibians,Xenopus laevis (African clawed frog) and Xenopus tropicalis (western clawed frog),1,Nuc-OXPHOS,0.37082,0.05154,0.138989267
+Amphibians,Xenopus laevis (African clawed frog) and Xenopus tropicalis (western clawed frog),1,Nuc-Glycolysis,0.36974,0.07024,0.189971331
+Teleosts,ConcatenatedAlignment,0,Mt,5.508,0.3151,0.05721
+Teleosts,ConcatenatedAlignment,0,Nuc-OXPHOS,2.4408,0.2605,0.10671
+Teleosts,ConcatenatedAlignment,0,Nuc-Glycolysis,2.733,0.3312,0.1212
+Teleosts,Xiphophorus maculatus (southern platyfish),1,Mt,0.836976,0.06621,0.079106211
+Teleosts,Oryzias latipes (Japanese medaka),1,Mt,1.758895,0.061549,0.034992993
+Teleosts,Takifugu rubripes (torafugu),1,Mt,1.03301,0.061254,0.059296619
+Teleosts,Danio rerio (zebrafish),1,Mt,1.782065,0.100449,0.056366631
+Teleosts,Xiphophorus maculatus (southern platyfish),1,Nuc-OXPHOS,0.362835,0.04514,0.124409167
+Teleosts,Oryzias latipes (Japanese medaka),1,Nuc-OXPHOS,0.460351,0.047168,0.102460948
+Teleosts,Takifugu rubripes (torafugu),1,Nuc-OXPHOS,0.480296,0.048044,0.100029982
+Teleosts,Danio rerio (zebrafish),1,Nuc-OXPHOS,1.098582,0.10257,0.093365812
+Teleosts,Xiphophorus maculatus (southern platyfish),1,Nuc-Glycolysis,0.456476,0.056414,0.123585906
+Teleosts,Oryzias latipes (Japanese medaka),1,Nuc-Glycolysis,0.611224,0.070581,0.11547485
+Teleosts,Takifugu rubripes (torafugu),1,Nuc-Glycolysis,0.620923,0.088863,0.143114364
+Teleosts,Danio rerio (zebrafish),1,Nuc-Glycolysis,1.148653,0.08002,0.069664207
+Dipterans,ConcatenatedAlignment,0,Mt,6.7554,0.2348,0.034757379
+Dipterans,ConcatenatedAlignment,0,Nuc-OXPHOS,4.2525,0.5325,0.125220459
+Dipterans,ConcatenatedAlignment,0,Nuc-Glycolysis,4.0613,0.6904,0.169994829
+Dipterans,Drosophila sechellia,1,Mt,0.088131,0.001046,0.011868695
+Dipterans,Drosophila simulans,1,Mt,0.053765,0.000611,0.01136427
+Dipterans,Drosophila melanogaster (fruit fly),1,Mt,0.299299,0.00461,0.015402658
+Dipterans,Drosophila yakuba,1,Mt,0.526472,0.005257,0.009985336
+Dipterans,Aedes aegypti (yellow fever mosquito),1,Mt,1.236582,0.037108,0.030008523
+Dipterans,Anopheles gambiae (mosquito),1,Mt,0.995864,0.031336,0.031466144
+Dipterans,Musca domestica (house fly),1,Mt,1.025374,0.041875,0.040838757
+Dipterans,Drosophila sechellia,1,Nuc-OXPHOS,0.124405,0.034173,0.274691532
+Dipterans,Drosophila simulans,1,Nuc-OXPHOS,0.045154,0.005635,0.124795146
+Dipterans,Drosophila melanogaster (fruit fly),1,Nuc-OXPHOS,0.1081,0.021929,0.202858464
+Dipterans,Drosophila yakuba,1,Nuc-OXPHOS,0.161686,0.036809,0.227657311
+Dipterans,Aedes aegypti (yellow fever mosquito),1,Nuc-OXPHOS,0.678395,0.064465,0.095025759
+Dipterans,Anopheles gambiae (mosquito),1,Nuc-OXPHOS,0.70037,0.051457,0.073471165
+Dipterans,Musca domestica (house fly),1,Nuc-OXPHOS,1.803887,0.071653,0.039721446
+Dipterans,Drosophila sechellia,1,Nuc-Glycolysis,0.025326,0.001716,0.067756456
+Dipterans,Drosophila simulans,1,Nuc-Glycolysis,0.1715,0.114863,0.669755102
+Dipterans,Drosophila melanogaster (fruit fly),1,Nuc-Glycolysis,0.12786,0.026454,0.20689817
+Dipterans,Drosophila yakuba,1,Nuc-Glycolysis,0.237565,0.083678,0.352232021
+Dipterans,Aedes aegypti (yellow fever mosquito),1,Nuc-Glycolysis,0.949528,0.053659,0.056511235
+Dipterans,Anopheles gambiae (mosquito),1,Nuc-Glycolysis,0.784446,0.067763,0.086383256
+Dipterans,Musca domestica (house fly),1,Nuc-Glycolysis,2.769466,0.092205,0.033293422
+Corals,ConcatenatedAlignment,0,Mt,5.1013,0.4108,0.080528493
+Corals,ConcatenatedAlignment,0,Nuc-OXPHOS,2.8263,0.3088,0.109259456
+Corals,ConcatenatedAlignment,0,Nuc-Glycolysis,2.9981,0.3053,0.10183116
+Corals,Atenuis,1,Mt,0.005137,0.001627,0.316721822
+Corals,Ahyacinthu,1,Mt,0.001574,0.00012,0.076238882
+Corals,Pporites(mt)/Pasteroides(nuc),1,Mt,0.308645,0.021614,0.070028674
+Corals,Mfaveolata(mt)/Mcavernosa(nuc),1,Mt,0.035172,0.023058,0.655578301
+Corals,Shystrix,1,Mt,1.406417,0.063258,0.044978125
+Corals,Mmyriaster(mt)/Mauretenra(nuc),1,Mt,1.352122,0.066836,0.049430451
+Corals,Pcarnosus(mt)/Pdaedalea(nuc),1,Mt,0.107537,0.034349,0.319415643
+Corals,Atenuis,1,Nuc-OXPHOS,0.049635,0.00401,0.080789765
+Corals,Ahyacinthu,1,Nuc-OXPHOS,0.042435,0.00522,0.123011665
+Corals,Pporites(mt)/Pasteroides(nuc),1,Nuc-OXPHOS,0.447939,0.035661,0.079611286
+Corals,Mfaveolata(mt)/Mcavernosa(nuc),1,Nuc-OXPHOS,0.124885,0.024815,0.198702807
+Corals,Shystrix,1,Nuc-OXPHOS,0.631692,0.056285,0.089101967
+Corals,Mmyriaster(mt)/Mauretenra(nuc),1,Nuc-OXPHOS,0.488962,0.064421,0.131750525
+Corals,Pcarnosus(mt)/Pdaedalea(nuc),1,Nuc-OXPHOS,0.174356,0.027196,0.15597972
+Corals,Atenuis,1,Nuc-Glycolysis,0.061087,0.009681,0.158478891
+Corals,Ahyacinthu,1,Nuc-Glycolysis,0.073793,0.007816,0.105917905
+Corals,Pporites(mt)/Pasteroides(nuc),1,Nuc-Glycolysis,0.663273,0.046669,0.070361676
+Corals,Mfaveolata(mt)/Mcavernosa(nuc),1,Nuc-Glycolysis,0.273031,0.031111,0.113946768
+Corals,Shystrix,1,Nuc-Glycolysis,0.47544,0.040222,0.084599529
+Corals,Mmyriaster(mt)/Mauretenra(nuc),1,Nuc-Glycolysis,0.32836,0.043741,0.133210501
+Corals,Pcarnosus(mt)/Pdaedalea(nuc),1,Nuc-Glycolysis,0.237807,0.0217,0.091250468
+Silene,ConcatenatedAlignment,0,Mt,0.6754,0.0648,0.09591
+Silene,ConcatenatedAlignment,0,Nuc-OXPHOS,0.1673,0.0313,0.18693
+Silene,ConcatenatedAlignment,0,Nuc-Glycolysis,0.1855,0.0145,0.078167116
+Silene,Sconica,1,Mt,0.083838,0.007086,0.084520146
+Silene,Smacrodonta,1,Mt,0.051105,0.008626,0.168789747
+Silene,Snoctiflora,1,Mt,0.545908,0.048923,0.089617665
+Silene,Sconica,1,Nuc-OXPHOS,0.016801,0.00349,0.207725731
+Silene,Smacrodonta,1,Nuc-OXPHOS,0.047463,0.00951,0.200366601
+Silene,Snoctiflora,1,Nuc-OXPHOS,0.103067,0.018284,0.177399168
+Silene,Sconica,1,Nuc-Glycolysis,0.028646,0.002667,0.093102004
+Silene,Smacrodonta,1,Nuc-Glycolysis,0.020948,0.001321,0.063060913
+Silene,Snoctiflora,1,Nuc-Glycolysis,0.135996,0.01048,0.07706109
+Eudicots,ConcatenatedAlignment,0,Mt,0.3652,0.086,0.235487404
+Eudicots,ConcatenatedAlignment,0,Nuc-OXPHOS,5.1843,0.6335,0.122195861
+Eudicots,ConcatenatedAlignment,0,Nuc-Glycolysis,6.8297,1.1089,0.162364379
+Eudicots,Vitis vinifera (wine grape),1,Mt,0.020967,0.011233,0.535746649
+Eudicots,Arabidopsis thaliaConcatenatedAlignment (thale cress),1,Mt,0.07114,0.018424,0.258982288
+Eudicots,Ricinus communis (castor bean),1,Mt,0.047006,0.011472,0.244053951
+Eudicots,Glycine max (soybean),1,Mt,0.005292,0.002406,0.454648526
+Eudicots,Cucumis sativus (cucumber),1,Mt,0.050231,0.013316,0.26509526
+Eudicots,NicotiaConcatenatedAlignment,1,Mt,0.03771,0.006099,0.161734288
+Eudicots,Humulus,1,Mt,0.025817,0.002646,0.102490607
+Eudicots,Lupinus,1,Mt,0.055986,0.009626,0.171935841
+Eudicots,VigConcatenatedAlignment radiata (mung bean),1,Mt,0.011096,0.001289,0.116167988
+Eudicots,Vitis vinifera (wine grape),1,Nuc-OXPHOS,0.357361,0.04878,0.136500625
+Eudicots,Arabidopsis thaliaConcatenatedAlignment (thale cress),1,Nuc-OXPHOS,0.797954,0.090438,0.11333736
+Eudicots,Ricinus communis (castor bean),1,Nuc-OXPHOS,0.570048,0.067278,0.11802164
+Eudicots,Glycine max (soybean),1,Nuc-OXPHOS,0.145612,0.022346,0.153462627
+Eudicots,Cucumis sativus (cucumber),1,Nuc-OXPHOS,0.668807,0.074706,0.111700386
+Eudicots,NicotiaConcatenatedAlignment,1,Nuc-OXPHOS,0.802446,0.082231,0.102475431
+Eudicots,Humulus,1,Nuc-OXPHOS,0.62598,0.071066,0.113527589
+Eudicots,Lupinus,1,Nuc-OXPHOS,0.518761,0.068954,0.132920555
+Eudicots,VigConcatenatedAlignment radiata (mung bean),1,Nuc-OXPHOS,0.320704,0.043048,0.134229695
+Eudicots,Vitis vinifera (wine grape),1,Nuc-Glycolysis,0.581006,0.126389,0.217534759
+Eudicots,Arabidopsis thaliaConcatenatedAlignment (thale cress),1,Nuc-Glycolysis,1.091563,0.11224,0.102825032
+Eudicots,Ricinus communis (castor bean),1,Nuc-Glycolysis,0.872815,0.186219,0.213354491
+Eudicots,Glycine max (soybean),1,Nuc-Glycolysis,0.439503,0.113815,0.258962965
+Eudicots,Cucumis sativus (cucumber),1,Nuc-Glycolysis,0.978085,0.162439,0.166078613
+Eudicots,NicotiaConcatenatedAlignment,1,Nuc-Glycolysis,0.734623,0.040936,0.05572382
+Eudicots,Humulus,1,Nuc-Glycolysis,0.592248,0.04775,0.080625008
+Eudicots,Lupinus,1,Nuc-Glycolysis,0.560546,0.080098,0.142892822
+Eudicots,VigConcatenatedAlignment radiata (mung bean),1,Nuc-Glycolysis,0.472327,0.132699,0.28094731
+Monocots,ConcatenatedAlignment,0,Mt,0.4156,0.1478,0.355630414
+Monocots,ConcatenatedAlignment,0,Nuc-OXPHOS,2.619,0.3644,0.139137075
+Monocots,ConcatenatedAlignment,0,Nuc-Glycolysis,3.3783,0.8912,0.26380132
+Monocots,Musa acumiConcatenatedAlignmentta (wild Malaysian baConcatenatedAlignmentConcatenatedAlignment),1,Mt,0.222688,0.056919,0.255599763
+Monocots,Zea mays (maize),1,Mt,0.050985,0.042383,0.831283711
+Monocots,Oryza sativa japonica (Japanese rice) (RefSeq),1,Mt,0.036716,0.01466,0.399280967
+Monocots,Sorghum bicolor (sorghum),1,Mt,0.034695,0.007141,0.205822165
+Monocots,Phoenix dactylifera (date palm),1,Mt,0.076213,0.026253,0.344468791
+Monocots,Musa acumiConcatenatedAlignmentta (wild Malaysian baConcatenatedAlignmentConcatenatedAlignment),1,Nuc-OXPHOS,0.942701,0.091828,0.097409465
+Monocots,Zea mays (maize),1,Nuc-OXPHOS,0.340882,0.09102,0.267013219
+Monocots,Oryza sativa japonica (Japanese rice) (RefSeq),1,Nuc-OXPHOS,0.385543,0.045803,0.118801275
+Monocots,Sorghum bicolor (sorghum),1,Nuc-OXPHOS,0.276605,0.053035,0.191735507
+Monocots,Phoenix dactylifera (date palm),1,Nuc-OXPHOS,0.814115,0.083005,0.10195734
+Monocots,Musa acumiConcatenatedAlignmentta (wild Malaysian baConcatenatedAlignmentConcatenatedAlignment),1,Nuc-Glycolysis,1.132777,0.19227,0.169733319
+Monocots,Zea mays (maize),1,Nuc-Glycolysis,0.359044,0.173012,0.481868518
+Monocots,Oryza sativa japonica (Japanese rice) (RefSeq),1,Nuc-Glycolysis,0.651694,0.158652,0.243445543
+Monocots,Sorghum bicolor (sorghum),1,Nuc-Glycolysis,0.447234,0.170153,0.380456316
+Monocots,Phoenix dactylifera (date palm),1,Nuc-Glycolysis,1.067554,0.195175,0.182824475
+Fungi (Aspergillus),ConcatenatedAlignment,0,Mt,0.76618,0.06271,0.081847608
+Fungi (Aspergillus),ConcatenatedAlignment,0,Nuc-OXPHOS,0.58237,0.07631,0.131033535
+Fungi (Aspergillus),ConcatenatedAlignment,0,Nuc-Glycolysis,1.06496,0.15301,0.143676758
+Fungi (Aspergillus),Aspergillus nidulans and Aspergillus niger,1,Mt,0.76618,0.06271,0.081847608
+Fungi (Aspergillus),Aspergillus nidulans and Aspergillus niger,1,Nuc-OXPHOS,0.58237,0.07631,0.131033535
+Fungi (Aspergillus),Aspergillus nidulans and Aspergillus niger,1,Nuc-Glycolysis,1.06496,0.15301,0.143676758
