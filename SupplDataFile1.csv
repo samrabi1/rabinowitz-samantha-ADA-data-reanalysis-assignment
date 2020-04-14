@@ -1,0 +1,1443 @@
+Species,Gene,Genome,Localization,Complex,FPKM
+Arabidopsis_dataset1,ND1,Mitochondria,Mitochondria,I,12601.2
+Arabidopsis_dataset1,ND2,Mitochondria,Mitochondria,I,6681.41
+Arabidopsis_dataset1,ND3,Mitochondria,Mitochondria,I,1651.11
+Arabidopsis_dataset1,ND4,Mitochondria,Mitochondria,I,11377.39
+Arabidopsis_dataset1,ND4L,Mitochondria,Mitochondria,I,651.6
+Arabidopsis_dataset1,ND5,Mitochondria,Mitochondria,I,18928.29
+Arabidopsis_dataset1,ND6,Mitochondria,Mitochondria,I,44301.65
+Arabidopsis_dataset1,ND7,Mitochondria,Mitochondria,I,22329.34
+Arabidopsis_dataset1,ND9,Mitochondria,Mitochondria,I,11689.05
+Arabidopsis_dataset1,COB,Mitochondria,Mitochondria,III,78090.42
+Arabidopsis_dataset1,COX 1,Mitochondria,Mitochondria,IV,103120.62
+Arabidopsis_dataset1,COX 2,Mitochondria,Mitochondria,IV,15910.36
+Arabidopsis_dataset1,COX 3,Mitochondria,Mitochondria,IV,42695.49
+Arabidopsis_dataset1,ATP1,Mitochondria,Mitochondria,V,166872.88
+Arabidopsis_dataset1,ATP4,Mitochondria,Mitochondria,V,26649.93
+Arabidopsis_dataset1,ATP6-1,Mitochondria,Mitochondria,V,34342.85
+Arabidopsis_dataset1,ATP8,Mitochondria,Mitochondria,V,61175.62
+Arabidopsis_dataset1,ATP9,Mitochondria,Mitochondria,V,30272.43
+Arabidopsis_dataset1,L2,Mitochondria,Mitochondria,RPL,19784.86
+Arabidopsis_dataset1,L5,Mitochondria,Mitochondria,RPL,30696.92
+Arabidopsis_dataset1,L16,Mitochondria,Mitochondria,RPL,30068.5
+Arabidopsis_dataset1,S3,Mitochondria,Mitochondria,RPS,12808.37
+Arabidopsis_dataset1,S4,Mitochondria,Mitochondria,RPS,3455.88
+Arabidopsis_dataset1,S7,Mitochondria,Mitochondria,RPS,6400.19
+Arabidopsis_dataset1,S12,Mitochondria,Mitochondria,RPS,1344.38
+Arabidopsis_dataset1,FPBP1,Nuclear,Mitochondria,I,2009.99
+Arabidopsis_dataset1,FPBP2,Nuclear,Mitochondria,I,16345.13
+Arabidopsis_dataset1,FPBP3,Nuclear,Mitochondria,I,1641.7
+Arabidopsis_dataset1,FPBP4,Nuclear,Mitochondria,I,2174.27
+Arabidopsis_dataset1,FPBP5,Nuclear,Mitochondria,I,2598.12
+Arabidopsis_dataset1,NDU16,Nuclear,Mitochondria,I,16561.89
+Arabidopsis_dataset1,NDUFA1,Nuclear,Mitochondria,I,8522.86
+Arabidopsis_dataset1,NDUFA11,Nuclear,Mitochondria,I,13184.3
+Arabidopsis_dataset1,NDUFA12a,Nuclear,Mitochondria,I,25643.33
+Arabidopsis_dataset1,NDUFA12b,Nuclear,Mitochondria,I,2564.33
+Arabidopsis_dataset1,NDUFA2,Nuclear,Mitochondria,I,18527.56
+Arabidopsis_dataset1,NDUFA5,Nuclear,Mitochondria,I,16532.36
+Arabidopsis_dataset1,NDUFA6,Nuclear,Mitochondria,I,15535.74
+Arabidopsis_dataset1,NDUFA8a,Nuclear,Mitochondria,I,12685.66
+Arabidopsis_dataset1,NDUFA8b,Nuclear,Mitochondria,I,8115.18
+Arabidopsis_dataset1,NDUFA9,Nuclear,Mitochondria,I,7359.63
+Arabidopsis_dataset1,NDUFB10a,Nuclear,Mitochondria,I,16785.79
+Arabidopsis_dataset1,NDUFB10b,Nuclear,Mitochondria,I,4993.96
+Arabidopsis_dataset1,NDUFB7,Nuclear,Mitochondria,I,6669.68
+Arabidopsis_dataset1,NDUFB9,Nuclear,Mitochondria,I,12760.85
+Arabidopsis_dataset1,NDUFS1,Nuclear,Mitochondria,I,6454.45
+Arabidopsis_dataset1,NDUFS4,Nuclear,Mitochondria,I,12763.73
+Arabidopsis_dataset1,NDUFS5a,Nuclear,Mitochondria,I,14601.84
+Arabidopsis_dataset1,NDUFS5b,Nuclear,Mitochondria,I,10976.54
+Arabidopsis_dataset1,NDUFS6,Nuclear,Mitochondria,I,9524.95
+Arabidopsis_dataset1,NDUFS7,Nuclear,Mitochondria,I,4843.85
+Arabidopsis_dataset1,NDUFV1,Nuclear,Mitochondria,I,12502.4
+Arabidopsis_dataset1,NDUFV2,Nuclear,Mitochondria,I,10344.95
+Arabidopsis_dataset1,NDUSF8a,Nuclear,Mitochondria,I,7251.69
+Arabidopsis_dataset1,NDUSF8b,Nuclear,Mitochondria,I,5943.7
+Arabidopsis_dataset1,SDH1-1,Nuclear,Mitochondria,II,13730.04
+Arabidopsis_dataset1,SDH2-2,Nuclear,Mitochondria,II,2442.79
+Arabidopsis_dataset1,SDH3,Nuclear,Mitochondria,II,18824.52
+Arabidopsis_dataset1,SDH4,Nuclear,Mitochondria,II,2926.75
+Arabidopsis_dataset1,SDH5,Nuclear,Mitochondria,II,15627.42
+Arabidopsis_dataset1,SDH6,Nuclear,Mitochondria,II,1301.09
+Arabidopsis_dataset1,SDH7-1,Nuclear,Mitochondria,II,5117.78
+Arabidopsis_dataset1,CYC1-1,Nuclear,Mitochondria,III,13135.86
+Arabidopsis_dataset1,QCR6-1,Nuclear,Mitochondria,III,4341.49
+Arabidopsis_dataset1,QCR7-1,Nuclear,Mitochondria,III,26429.79
+Arabidopsis_dataset1,QCR9,Nuclear,Mitochondria,III,43861.41
+Arabidopsis_dataset1,UCR1-1,Nuclear,Mitochondria,III,15868.71
+Arabidopsis_dataset1,UCRY,Nuclear,Mitochondria,III,11490.87
+Arabidopsis_dataset1,UCRQ-1,Nuclear,Mitochondria,III,98166.01
+Arabidopsis_dataset1,MPP alpha-1,Nuclear,Mitochondria,III,13469.17
+Arabidopsis_dataset1,MPP beta,Nuclear,Mitochondria,III,9528.84
+Arabidopsis_dataset1,COX 5b-1,Nuclear,Mitochondria,IV,16437.43
+Arabidopsis_dataset1,COX 5c-1,Nuclear,Mitochondria,IV,38525.41
+Arabidopsis_dataset1,COX 6a,Nuclear,Mitochondria,IV,59722.06
+Arabidopsis_dataset1,COX 6b-1,Nuclear,Mitochondria,IV,14103.57
+Arabidopsis_dataset1,COX 6c,Nuclear,Mitochondria,IV,1518.37
+Arabidopsis_dataset1,COX X2-1,Nuclear,Mitochondria,IV,18106.7
+Arabidopsis_dataset1,COX X3,Nuclear,Mitochondria,IV,3753.95
+Arabidopsis_dataset1,COX X4,Nuclear,Mitochondria,IV,2699.3
+Arabidopsis_dataset1,COX X6,Nuclear,Mitochondria,IV,547.4
+Arabidopsis_dataset1,ATP15,Nuclear,Mitochondria,V,278904.57
+Arabidopsis_dataset1,ATP16,Nuclear,Mitochondria,V,1920.59
+Arabidopsis_dataset1,ATP17,Nuclear,Mitochondria,V,5480.81
+Arabidopsis_dataset1,ATP20-1,Nuclear,Mitochondria,V,21131.93
+Arabidopsis_dataset1,ATP2a,Nuclear,Mitochondria,V,17313.71
+Arabidopsis_dataset1,ATP2b,Nuclear,Mitochondria,V,7038.51
+Arabidopsis_dataset1,ATP2c,Nuclear,Mitochondria,V,13958.3
+Arabidopsis_dataset1,ATP3,Nuclear,Mitochondria,V,6424.91
+Arabidopsis_dataset1,ATP7,Nuclear,Mitochondria,V,17042.43
+Arabidopsis_dataset1,L1,Nuclear,Mitochondria,RPL,1625.87
+Arabidopsis_dataset1,L10,Nuclear,Mitochondria,RPL,2125.43
+Arabidopsis_dataset1,L11,Nuclear,Mitochondria,RPL,17323.82
+Arabidopsis_dataset1,L13,Nuclear,Mitochondria,RPL,2130.3
+Arabidopsis_dataset1,L14-1,Nuclear,Mitochondria,RPL,2196.47
+Arabidopsis_dataset1,L15,Nuclear,Mitochondria,RPL,3312.28
+Arabidopsis_dataset1,L17-1,Nuclear,Mitochondria,RPL,2685.66
+Arabidopsis_dataset1,L18,Nuclear,Mitochondria,RPL,214.35
+Arabidopsis_dataset1,L19-1,Nuclear,Mitochondria,RPL,2845.9
+Arabidopsis_dataset1,L20,Nuclear,Mitochondria,RPL,1483.26
+Arabidopsis_dataset1,L21,Nuclear,Mitochondria,RPL,841.96
+Arabidopsis_dataset1,L22-1,Nuclear,Mitochondria,RPL,4931.26
+Arabidopsis_dataset1,L23,Nuclear,Mitochondria,RPL,3315.33
+Arabidopsis_dataset1,L24,Nuclear,Mitochondria,RPL,872.24
+Arabidopsis_dataset1,L27-1,Nuclear,Mitochondria,RPL,5312.28
+Arabidopsis_dataset1,L28,Nuclear,Mitochondria,RPL,371.38
+Arabidopsis_dataset1,L29,Nuclear,Mitochondria,RPL,244.6
+Arabidopsis_dataset1,L3,Nuclear,Mitochondria,RPL,5153.69
+Arabidopsis_dataset1,L30,Nuclear,Mitochondria,RPL,489.78
+Arabidopsis_dataset1,L32,Nuclear,Mitochondria,RPL,380.71
+Arabidopsis_dataset1,L33,Nuclear,Mitochondria,RPL,1062.26
+Arabidopsis_dataset1,L36,Nuclear,Mitochondria,RPL,1569.34
+Arabidopsis_dataset1,L4,Nuclear,Mitochondria,RPL,1611.1
+Arabidopsis_dataset1,L6,Nuclear,Mitochondria,RPL,1013.96
+Arabidopsis_dataset1,L7/L12-1,Nuclear,Mitochondria,RPL,8371.6
+Arabidopsis_dataset1,L9,Nuclear,Mitochondria,RPL,426.06
+Arabidopsis_dataset1,S10,Nuclear,Mitochondria,RPS,426.06
+Arabidopsis_dataset1,S11,Nuclear,Mitochondria,RPS,2275.49
+Arabidopsis_dataset1,S14,Nuclear,Mitochondria,RPS,665.22
+Arabidopsis_dataset1,S15-1,Nuclear,Mitochondria,RPS,2943.39
+Arabidopsis_dataset1,S16-1,Nuclear,Mitochondria,RPS,56915.97
+Arabidopsis_dataset1,S17-1,Nuclear,Mitochondria,RPS,524.2
+Arabidopsis_dataset1,S18,Nuclear,Mitochondria,RPS,1795.54
+Arabidopsis_dataset1,S19,Nuclear,Mitochondria,RPS,6045.32
+Arabidopsis_dataset1,S2,Nuclear,Mitochondria,RPS,1727.8
+Arabidopsis_dataset1,S21,Nuclear,Mitochondria,RPS,25.67
+Arabidopsis_dataset1,S5,Nuclear,Mitochondria,RPS,1650.1
+Arabidopsis_dataset1,S6,Nuclear,Mitochondria,RPS,1976.18
+Arabidopsis_dataset1,S8,Nuclear,Mitochondria,RPS,5971.94
+Arabidopsis_dataset1,S9,Nuclear,Mitochondria,RPS,535.07
+Arabidopsis_dataset2,ND1,Mitochondria,Mitochondria,I,28558.65
+Arabidopsis_dataset2,ND2,Mitochondria,Mitochondria,I,14328.45
+Arabidopsis_dataset2,ND3,Mitochondria,Mitochondria,I,7974.77
+Arabidopsis_dataset2,ND4,Mitochondria,Mitochondria,I,21842.45
+Arabidopsis_dataset2,ND4L,Mitochondria,Mitochondria,I,12520.66
+Arabidopsis_dataset2,ND5,Mitochondria,Mitochondria,I,18993.54
+Arabidopsis_dataset2,ND6,Mitochondria,Mitochondria,I,57440.58
+Arabidopsis_dataset2,ND7,Mitochondria,Mitochondria,I,19352.96
+Arabidopsis_dataset2,ND9,Mitochondria,Mitochondria,I,26750.28
+Arabidopsis_dataset2,cob-1,Mitochondria,Mitochondria,III,50185.81
+Arabidopsis_dataset2,COX 1,Mitochondria,Mitochondria,IV,57786.96
+Arabidopsis_dataset2,COX 2,Mitochondria,Mitochondria,IV,58407.13
+Arabidopsis_dataset2,COX 3,Mitochondria,Mitochondria,IV,60873.88
+Arabidopsis_dataset2,ATP1,Mitochondria,Mitochondria,V,139309.54
+Arabidopsis_dataset2,ATP4,Mitochondria,Mitochondria,V,22365.54
+Arabidopsis_dataset2,ATP6-1,Mitochondria,Mitochondria,V,82390.24
+Arabidopsis_dataset2,ATP8,Mitochondria,Mitochondria,V,82154.49
+Arabidopsis_dataset2,ATP9,Mitochondria,Mitochondria,V,290701.73
+Arabidopsis_dataset2,L5,Mitochondria,Mitochondria,RPL,16490.87
+Arabidopsis_dataset2,L2,Mitochondria,Mitochondria,RPL,12235.05
+Arabidopsis_dataset2,L16,Mitochondria,Mitochondria,RPL,21226.32
+Arabidopsis_dataset2,S12,Mitochondria,Mitochondria,RPS,11557.92
+Arabidopsis_dataset2,S3,Mitochondria,Mitochondria,RPS,13674.28
+Arabidopsis_dataset2,S4,Mitochondria,Mitochondria,RPS,7380.13
+Arabidopsis_dataset2,S7,Mitochondria,Mitochondria,RPS,3457.61
+Arabidopsis_dataset2,FPBP1,Nuclear,Mitochondria,I,1089.95
+Arabidopsis_dataset2,FPBP2,Nuclear,Mitochondria,I,4704.57
+Arabidopsis_dataset2,FPBP3,Nuclear,Mitochondria,I,2063.67
+Arabidopsis_dataset2,FPBP4,Nuclear,Mitochondria,I,2171.75
+Arabidopsis_dataset2,FPBP5,Nuclear,Mitochondria,I,2194.75
+Arabidopsis_dataset2,NDU16,Nuclear,Mitochondria,I,6301.72
+Arabidopsis_dataset2,NDUFA1,Nuclear,Mitochondria,I,7566.89
+Arabidopsis_dataset2,NDUFA11,Nuclear,Mitochondria,I,4512
+Arabidopsis_dataset2,NDUFA12a,Nuclear,Mitochondria,I,3408.02
+Arabidopsis_dataset2,NDUFA12b,Nuclear,Mitochondria,I,1308.88
+Arabidopsis_dataset2,NDUFA2,Nuclear,Mitochondria,I,5597.49
+Arabidopsis_dataset2,NDUFA5,Nuclear,Mitochondria,I,4021.74
+Arabidopsis_dataset2,NDUFA6,Nuclear,Mitochondria,I,4766.17
+Arabidopsis_dataset2,NDUFA8a,Nuclear,Mitochondria,I,726.39
+Arabidopsis_dataset2,NDUFA8b,Nuclear,Mitochondria,I,3355.45
+Arabidopsis_dataset2,NDUFA9,Nuclear,Mitochondria,I,2906.33
+Arabidopsis_dataset2,NDUFB10a,Nuclear,Mitochondria,I,2277.5
+Arabidopsis_dataset2,NDUFB10b,Nuclear,Mitochondria,I,4888.9
+Arabidopsis_dataset2,NDUFB7,Nuclear,Mitochondria,I,5753.92
+Arabidopsis_dataset2,NDUFB9,Nuclear,Mitochondria,I,5526.98
+Arabidopsis_dataset2,NDUFS1,Nuclear,Mitochondria,I,4503.88
+Arabidopsis_dataset2,NDUFS4,Nuclear,Mitochondria,I,4687.29
+Arabidopsis_dataset2,NDUFS5a,Nuclear,Mitochondria,I,413.55
+Arabidopsis_dataset2,NDUFS5b,Nuclear,Mitochondria,I,1095.33
+Arabidopsis_dataset2,NDUFS6,Nuclear,Mitochondria,I,4199.21
+Arabidopsis_dataset2,NDUFS7,Nuclear,Mitochondria,I,2373.18
+Arabidopsis_dataset2,NDUFV1,Nuclear,Mitochondria,I,3759.14
+Arabidopsis_dataset2,NDUFV2,Nuclear,Mitochondria,I,3305.79
+Arabidopsis_dataset2,NDUSF8a,Nuclear,Mitochondria,I,3376.63
+Arabidopsis_dataset2,NDUSF8b,Nuclear,Mitochondria,I,2745.81
+Arabidopsis_dataset2,SDH1-1,Nuclear,Mitochondria,II,3988.66
+Arabidopsis_dataset2,SDH2-1,Nuclear,Mitochondria,II,5161.86
+Arabidopsis_dataset2,SDH3,Nuclear,Mitochondria,II,5933.28
+Arabidopsis_dataset2,SDH4,Nuclear,Mitochondria,II,2530.84
+Arabidopsis_dataset2,SDH5,Nuclear,Mitochondria,II,4469.85
+Arabidopsis_dataset2,SDH6,Nuclear,Mitochondria,II,3228.66
+Arabidopsis_dataset2,SDH7-1,Nuclear,Mitochondria,II,4961.19
+Arabidopsis_dataset2,SDH8,Nuclear,Mitochondria,II,7554.65
+Arabidopsis_dataset2,CYC1-1,Nuclear,Mitochondria,III,7481.49
+Arabidopsis_dataset2,MPP alpha-1,Nuclear,Mitochondria,III,5643.06
+Arabidopsis_dataset2,MPP beta,Nuclear,Mitochondria,III,7882.96
+Arabidopsis_dataset2,QCR6-1,Nuclear,Mitochondria,III,8758.74
+Arabidopsis_dataset2,QCR7-1,Nuclear,Mitochondria,III,6603.91
+Arabidopsis_dataset2,QCR9,Nuclear,Mitochondria,III,11735.84
+Arabidopsis_dataset2,UCR1-1,Nuclear,Mitochondria,III,10863.13
+Arabidopsis_dataset2,UCRQ-1,Nuclear,Mitochondria,III,9852.59
+Arabidopsis_dataset2,UCRY,Nuclear,Mitochondria,III,3348.55
+Arabidopsis_dataset2,COX 5b-1,Nuclear,Mitochondria,IV,7127.81
+Arabidopsis_dataset2,COX 5c-1,Nuclear,Mitochondria,IV,15175.33
+Arabidopsis_dataset2,COX 6a,Nuclear,Mitochondria,IV,10082.04
+Arabidopsis_dataset2,COX 6b-1,Nuclear,Mitochondria,IV,11932.14
+Arabidopsis_dataset2,COX 6c,Nuclear,Mitochondria,IV,33.13
+Arabidopsis_dataset2,COX X2-1,Nuclear,Mitochondria,IV,7284.5
+Arabidopsis_dataset2,COX X3,Nuclear,Mitochondria,IV,9138.19
+Arabidopsis_dataset2,COX X4,Nuclear,Mitochondria,IV,8054.28
+Arabidopsis_dataset2,COX X6,Nuclear,Mitochondria,IV,510.04
+Arabidopsis_dataset2,ATP15,Nuclear,Mitochondria,V,13141
+Arabidopsis_dataset2,ATP16,Nuclear,Mitochondria,V,5272.07
+Arabidopsis_dataset2,ATP17,Nuclear,Mitochondria,V,9320.65
+Arabidopsis_dataset2,ATP20-1,Nuclear,Mitochondria,V,7233.83
+Arabidopsis_dataset2,ATP2a,Nuclear,Mitochondria,V,22709.78
+Arabidopsis_dataset2,ATP3,Nuclear,Mitochondria,V,8809.1
+Arabidopsis_dataset2,ATP7,Nuclear,Mitochondria,V,11276.72
+Arabidopsis_dataset2,L1,Nuclear,Mitochondria,RPL,748.32
+Arabidopsis_dataset2,L10,Nuclear,Mitochondria,RPL,228.15
+Arabidopsis_dataset2,L11,Nuclear,Mitochondria,RPL,2168.58
+Arabidopsis_dataset2,L13,Nuclear,Mitochondria,RPL,1058.73
+Arabidopsis_dataset2,L14-1,Nuclear,Mitochondria,RPL,976.11
+Arabidopsis_dataset2,L15,Nuclear,Mitochondria,RPL,1012.36
+Arabidopsis_dataset2,L17-1,Nuclear,Mitochondria,RPL,1812.49
+Arabidopsis_dataset2,L18,Nuclear,Mitochondria,RPL,732.52
+Arabidopsis_dataset2,L19-1,Nuclear,Mitochondria,RPL,1252.23
+Arabidopsis_dataset2,L20,Nuclear,Mitochondria,RPL,1112.01
+Arabidopsis_dataset2,L21,Nuclear,Mitochondria,RPL,396.09
+Arabidopsis_dataset2,L22-1,Nuclear,Mitochondria,RPL,1371.35
+Arabidopsis_dataset2,L23,Nuclear,Mitochondria,RPL,556.61
+Arabidopsis_dataset2,L24,Nuclear,Mitochondria,RPL,1098
+Arabidopsis_dataset2,L27-1,Nuclear,Mitochondria,RPL,1834.48
+Arabidopsis_dataset2,L27-2,Nuclear,Mitochondria,RPL,761.25
+Arabidopsis_dataset2,L28,Nuclear,Mitochondria,RPL,579.73
+Arabidopsis_dataset2,L29,Nuclear,Mitochondria,RPL,900.12
+Arabidopsis_dataset2,L3,Nuclear,Mitochondria,RPL,544.52
+Arabidopsis_dataset2,L30,Nuclear,Mitochondria,RPL,958.53
+Arabidopsis_dataset2,L32,Nuclear,Mitochondria,RPL,1117.1
+Arabidopsis_dataset2,L33,Nuclear,Mitochondria,RPL,1443.4
+Arabidopsis_dataset2,L36,Nuclear,Mitochondria,RPL,1070
+Arabidopsis_dataset2,L4,Nuclear,Mitochondria,RPL,1171.94
+Arabidopsis_dataset2,L6,Nuclear,Mitochondria,RPL,1359.96
+Arabidopsis_dataset2,L7/L12-1,Nuclear,Mitochondria,RPL,4481.96
+Arabidopsis_dataset2,L9,Nuclear,Mitochondria,RPL,634.16
+Arabidopsis_dataset2,S10,Nuclear,Mitochondria,RPS,749.47
+Arabidopsis_dataset2,S11,Nuclear,Mitochondria,RPS,1059.78
+Arabidopsis_dataset2,S14,Nuclear,Mitochondria,RPS,1305.38
+Arabidopsis_dataset2,S15-1,Nuclear,Mitochondria,RPS,1278.82
+Arabidopsis_dataset2,S16-1,Nuclear,Mitochondria,RPS,3999.21
+Arabidopsis_dataset2,S17-1,Nuclear,Mitochondria,RPS,1068.36
+Arabidopsis_dataset2,S18,Nuclear,Mitochondria,RPS,1069.03
+Arabidopsis_dataset2,S19,Nuclear,Mitochondria,RPS,1086.78
+Arabidopsis_dataset2,S2,Nuclear,Mitochondria,RPS,1229.85
+Arabidopsis_dataset2,S21,Nuclear,Mitochondria,RPS,15.91
+Arabidopsis_dataset2,S5,Nuclear,Mitochondria,RPS,1052.56
+Arabidopsis_dataset2,S6,Nuclear,Mitochondria,RPS,1070.43
+Arabidopsis_dataset2,S8,Nuclear,Mitochondria,RPS,895.29
+Arabidopsis_dataset2,S9,Nuclear,Mitochondria,RPS,171.82
+Arabidopsis_dataset3,ND1,Mitochondria,Mitochondria,I,29627.84
+Arabidopsis_dataset3,ND2,Mitochondria,Mitochondria,I,10545.82
+Arabidopsis_dataset3,ND3,Mitochondria,Mitochondria,I,4905.29
+Arabidopsis_dataset3,ND4,Mitochondria,Mitochondria,I,19368.91
+Arabidopsis_dataset3,ND4L,Mitochondria,Mitochondria,I,16736.38
+Arabidopsis_dataset3,ND5,Mitochondria,Mitochondria,I,17508.86
+Arabidopsis_dataset3,ND6,Mitochondria,Mitochondria,I,31095.49
+Arabidopsis_dataset3,ND7,Mitochondria,Mitochondria,I,29679.98
+Arabidopsis_dataset3,ND9,Mitochondria,Mitochondria,I,29637.66
+Arabidopsis_dataset3,cob-1,Mitochondria,Mitochondria,III,34226.4
+Arabidopsis_dataset3,COX 1,Mitochondria,Mitochondria,IV,53141.96
+Arabidopsis_dataset3,COX 2,Mitochondria,Mitochondria,IV,49136.77
+Arabidopsis_dataset3,COX 3,Mitochondria,Mitochondria,IV,37519.82
+Arabidopsis_dataset3,ATP1,Mitochondria,Mitochondria,V,117097.53
+Arabidopsis_dataset3,ATP4,Mitochondria,Mitochondria,V,36833.47
+Arabidopsis_dataset3,ATP6-1,Mitochondria,Mitochondria,V,52930.63
+Arabidopsis_dataset3,ATP8,Mitochondria,Mitochondria,V,66910.26
+Arabidopsis_dataset3,ATP9,Mitochondria,Mitochondria,V,339009.01
+Arabidopsis_dataset3,L5,Mitochondria,Mitochondria,RPL,16583.9
+Arabidopsis_dataset3,L2,Mitochondria,Mitochondria,RPL,14665.35
+Arabidopsis_dataset3,L16,Mitochondria,Mitochondria,RPL,34008.01
+Arabidopsis_dataset3,S12,Mitochondria,Mitochondria,RPS,8927.26
+Arabidopsis_dataset3,S3,Mitochondria,Mitochondria,RPS,19075.14
+Arabidopsis_dataset3,S4,Mitochondria,Mitochondria,RPS,4989.85
+Arabidopsis_dataset3,S7,Mitochondria,Mitochondria,RPS,6657.18
+Arabidopsis_dataset3,FPBP1,Nuclear,Mitochondria,I,1815.95
+Arabidopsis_dataset3,FPBP2,Nuclear,Mitochondria,I,6632.36
+Arabidopsis_dataset3,FPBP3,Nuclear,Mitochondria,I,2268.07
+Arabidopsis_dataset3,FPBP4,Nuclear,Mitochondria,I,3391.38
+Arabidopsis_dataset3,FPBP5,Nuclear,Mitochondria,I,3224.27
+Arabidopsis_dataset3,NDU16,Nuclear,Mitochondria,I,6379.73
+Arabidopsis_dataset3,NDUFA1,Nuclear,Mitochondria,I,18298.52
+Arabidopsis_dataset3,NDUFA11,Nuclear,Mitochondria,I,5120.48
+Arabidopsis_dataset3,NDUFA12a,Nuclear,Mitochondria,I,6355.5
+Arabidopsis_dataset3,NDUFA12b,Nuclear,Mitochondria,I,2144.66
+Arabidopsis_dataset3,NDUFA2,Nuclear,Mitochondria,I,5984.92
+Arabidopsis_dataset3,NDUFA5,Nuclear,Mitochondria,I,7162.47
+Arabidopsis_dataset3,NDUFA6,Nuclear,Mitochondria,I,5346.36
+Arabidopsis_dataset3,NDUFA8a,Nuclear,Mitochondria,I,1566.16
+Arabidopsis_dataset3,NDUFA8b,Nuclear,Mitochondria,I,6512.43
+Arabidopsis_dataset3,NDUFA9,Nuclear,Mitochondria,I,4715.63
+Arabidopsis_dataset3,NDUFB10a,Nuclear,Mitochondria,I,6309.47
+Arabidopsis_dataset3,NDUFB10b,Nuclear,Mitochondria,I,7297.06
+Arabidopsis_dataset3,NDUFB7,Nuclear,Mitochondria,I,7319.16
+Arabidopsis_dataset3,NDUFB9,Nuclear,Mitochondria,I,7616.45
+Arabidopsis_dataset3,NDUFS1,Nuclear,Mitochondria,I,4599.83
+Arabidopsis_dataset3,NDUFS4,Nuclear,Mitochondria,I,6329.78
+Arabidopsis_dataset3,NDUFS5a,Nuclear,Mitochondria,I,2675.43
+Arabidopsis_dataset3,NDUFS5b,Nuclear,Mitochondria,I,3206.95
+Arabidopsis_dataset3,NDUFS6,Nuclear,Mitochondria,I,7406.71
+Arabidopsis_dataset3,NDUFS7,Nuclear,Mitochondria,I,7070.53
+Arabidopsis_dataset3,NDUFV1,Nuclear,Mitochondria,I,8095.52
+Arabidopsis_dataset3,NDUFV2,Nuclear,Mitochondria,I,5415.71
+Arabidopsis_dataset3,NDUSF8a,Nuclear,Mitochondria,I,5974.34
+Arabidopsis_dataset3,NDUSF8b,Nuclear,Mitochondria,I,2551.7
+Arabidopsis_dataset3,SDH1-1,Nuclear,Mitochondria,II,4007.51
+Arabidopsis_dataset3,SDH2-1,Nuclear,Mitochondria,II,4516.83
+Arabidopsis_dataset3,SDH3,Nuclear,Mitochondria,II,7105.45
+Arabidopsis_dataset3,SDH4,Nuclear,Mitochondria,II,2976.32
+Arabidopsis_dataset3,SDH5,Nuclear,Mitochondria,II,6554.62
+Arabidopsis_dataset3,SDH6,Nuclear,Mitochondria,II,3668.5
+Arabidopsis_dataset3,SDH7-1,Nuclear,Mitochondria,II,5204.94
+Arabidopsis_dataset3,SDH8,Nuclear,Mitochondria,II,7257.83
+Arabidopsis_dataset3,CYC1-1,Nuclear,Mitochondria,III,10725.74
+Arabidopsis_dataset3,MPP alpha-1,Nuclear,Mitochondria,III,6681.91
+Arabidopsis_dataset3,MPP beta,Nuclear,Mitochondria,III,7953.06
+Arabidopsis_dataset3,QCR6-1,Nuclear,Mitochondria,III,15985.53
+Arabidopsis_dataset3,QCR7-1,Nuclear,Mitochondria,III,8451.34
+Arabidopsis_dataset3,QCR9,Nuclear,Mitochondria,III,10523.85
+Arabidopsis_dataset3,UCR1-1,Nuclear,Mitochondria,III,8418.48
+Arabidopsis_dataset3,UCRQ-1,Nuclear,Mitochondria,III,16112.38
+Arabidopsis_dataset3,UCRY,Nuclear,Mitochondria,III,3251.51
+Arabidopsis_dataset3,COX 5b-1,Nuclear,Mitochondria,IV,9139.29
+Arabidopsis_dataset3,COX 5c-1,Nuclear,Mitochondria,IV,14616.47
+Arabidopsis_dataset3,COX 6a,Nuclear,Mitochondria,IV,11736.94
+Arabidopsis_dataset3,COX 6b-1,Nuclear,Mitochondria,IV,15804.48
+Arabidopsis_dataset3,COX 6c,Nuclear,Mitochondria,IV,9964.8
+Arabidopsis_dataset3,COX X2-1,Nuclear,Mitochondria,IV,9822.97
+Arabidopsis_dataset3,COX X3,Nuclear,Mitochondria,IV,12639.79
+Arabidopsis_dataset3,COX X4,Nuclear,Mitochondria,IV,9273.89
+Arabidopsis_dataset3,COX X6,Nuclear,Mitochondria,IV,439.87
+Arabidopsis_dataset3,ATP15,Nuclear,Mitochondria,V,11765.32
+Arabidopsis_dataset3,ATP16,Nuclear,Mitochondria,V,7911.46
+Arabidopsis_dataset3,ATP17,Nuclear,Mitochondria,V,10010.8
+Arabidopsis_dataset3,ATP20-1,Nuclear,Mitochondria,V,9257.76
+Arabidopsis_dataset3,ATP2a,Nuclear,Mitochondria,V,27985.14
+Arabidopsis_dataset3,ATP3,Nuclear,Mitochondria,V,11166.65
+Arabidopsis_dataset3,ATP7,Nuclear,Mitochondria,V,12637.16
+Arabidopsis_dataset3,L1,Nuclear,Mitochondria,RPL,1114.26
+Arabidopsis_dataset3,L10,Nuclear,Mitochondria,RPL,11905.93
+Arabidopsis_dataset3,L11,Nuclear,Mitochondria,RPL,5877.08
+Arabidopsis_dataset3,L13,Nuclear,Mitochondria,RPL,1896.26
+Arabidopsis_dataset3,L14-1,Nuclear,Mitochondria,RPL,1972.7
+Arabidopsis_dataset3,L15,Nuclear,Mitochondria,RPL,2121.97
+Arabidopsis_dataset3,L17-1,Nuclear,Mitochondria,RPL,2608.28
+Arabidopsis_dataset3,L18,Nuclear,Mitochondria,RPL,1699.39
+Arabidopsis_dataset3,L19-1,Nuclear,Mitochondria,RPL,2100.72
+Arabidopsis_dataset3,L20,Nuclear,Mitochondria,RPL,1605.99
+Arabidopsis_dataset3,L21,Nuclear,Mitochondria,RPL,927.05
+Arabidopsis_dataset3,L22-1,Nuclear,Mitochondria,RPL,2499.16
+Arabidopsis_dataset3,L23,Nuclear,Mitochondria,RPL,2624.75
+Arabidopsis_dataset3,L24,Nuclear,Mitochondria,RPL,1097.25
+Arabidopsis_dataset3,L27-1,Nuclear,Mitochondria,RPL,2569.98
+Arabidopsis_dataset3,L27-2,Nuclear,Mitochondria,RPL,1261.2
+Arabidopsis_dataset3,L28,Nuclear,Mitochondria,RPL,999.97
+Arabidopsis_dataset3,L29,Nuclear,Mitochondria,RPL,984.99
+Arabidopsis_dataset3,L3,Nuclear,Mitochondria,RPL,1720.01
+Arabidopsis_dataset3,L30,Nuclear,Mitochondria,RPL,1432.71
+Arabidopsis_dataset3,L32,Nuclear,Mitochondria,RPL,1309.26
+Arabidopsis_dataset3,L33,Nuclear,Mitochondria,RPL,1004.93
+Arabidopsis_dataset3,L36,Nuclear,Mitochondria,RPL,1226.68
+Arabidopsis_dataset3,L4,Nuclear,Mitochondria,RPL,1321.57
+Arabidopsis_dataset3,L6,Nuclear,Mitochondria,RPL,1617.46
+Arabidopsis_dataset3,L7/L12-1,Nuclear,Mitochondria,RPL,6526.43
+Arabidopsis_dataset3,L9,Nuclear,Mitochondria,RPL,599.06
+Arabidopsis_dataset3,S10,Nuclear,Mitochondria,RPS,791.76
+Arabidopsis_dataset3,S11,Nuclear,Mitochondria,RPS,1235.37
+Arabidopsis_dataset3,S14,Nuclear,Mitochondria,RPS,1957.41
+Arabidopsis_dataset3,S15-1,Nuclear,Mitochondria,RPS,1848.6
+Arabidopsis_dataset3,S16-1,Nuclear,Mitochondria,RPS,82044.85
+Arabidopsis_dataset3,S17-1,Nuclear,Mitochondria,RPS,967.71
+Arabidopsis_dataset3,S18,Nuclear,Mitochondria,RPS,1876.26
+Arabidopsis_dataset3,S19,Nuclear,Mitochondria,RPS,2354.76
+Arabidopsis_dataset3,S2,Nuclear,Mitochondria,RPS,1257.51
+Arabidopsis_dataset3,S21,Nuclear,Mitochondria,RPS,75.9
+Arabidopsis_dataset3,S5,Nuclear,Mitochondria,RPS,1628.88
+Arabidopsis_dataset3,S6,Nuclear,Mitochondria,RPS,1627.92
+Arabidopsis_dataset3,S8,Nuclear,Mitochondria,RPS,1466.53
+Arabidopsis_dataset3,S9,Nuclear,Mitochondria,RPS,816.96
+Humulus,nad1,Mitochondria,Mitochondria,I,40294.8
+Humulus,nad2,Mitochondria,Mitochondria,I,19067.71
+Humulus,nad3,Mitochondria,Mitochondria,I,19572.08
+Humulus,nad4,Mitochondria,Mitochondria,I,48826.76
+Humulus,nad4L,Mitochondria,Mitochondria,I,32641.23
+Humulus,nad5,Mitochondria,Mitochondria,I,48522.02
+Humulus,nad6,Mitochondria,Mitochondria,I,39253.51
+Humulus,nad7,Mitochondria,Mitochondria,I,106551.21
+Humulus,nad9,Mitochondria,Mitochondria,I,55242
+Humulus,sdh4,Mitochondria,Mitochondria,II,95246.79
+Humulus,cob,Mitochondria,Mitochondria,III,95394.33
+Humulus,cox1,Mitochondria,Mitochondria,IV,78825.12
+Humulus,cox2,Mitochondria,Mitochondria,IV,67906.49
+Humulus,cox3,Mitochondria,Mitochondria,IV,61039.12
+Humulus,atp1,Mitochondria,Mitochondria,V,61953.3
+Humulus,atp4,Mitochondria,Mitochondria,V,41618.43
+Humulus,atp6,Mitochondria,Mitochondria,V,41793.8
+Humulus,atp8,Mitochondria,Mitochondria,V,61856.19
+Humulus,atp9,Mitochondria,Mitochondria,V,242764.45
+Humulus,NDUFA12b,Nuclear,Mitochondria,I,2197.02
+Humulus,NDUSF8b,Nuclear,Mitochondria,I,4376.1
+Humulus,FPBP11,Nuclear,Mitochondria,I,3103.38
+Humulus,FPBP12,Nuclear,Mitochondria,I,2818.64
+Humulus,NDUFB10a,Nuclear,Mitochondria,I,1946.86
+Humulus,NDUSF8a,Nuclear,Mitochondria,I,4454.25
+Humulus,NDUFB7,Nuclear,Mitochondria,I,2427.03
+Humulus,NDUFA9,Nuclear,Mitochondria,I,2335.49
+Humulus,NDU16,Nuclear,Mitochondria,I,3749.87
+Humulus,NDUFA12a,Nuclear,Mitochondria,I,2345.47
+Humulus,NDUFS5b,Nuclear,Mitochondria,I,3168.58
+Humulus,NDUFS6,Nuclear,Mitochondria,I,5817.42
+Humulus,NDUFA11,Nuclear,Mitochondria,I,1446.3
+Humulus,NDUFA8a1,Nuclear,Mitochondria,I,936.27
+Humulus,NDUFA8a2,Nuclear,Mitochondria,I,687.85
+Humulus,NDUFA6,Nuclear,Mitochondria,I,5598.59
+Humulus,NDUFB10b,Nuclear,Mitochondria,I,2323.96
+Humulus,FPBP3,Nuclear,Mitochondria,I,2684.41
+Humulus,NDUFS5a,Nuclear,Mitochondria,I,2027.89
+Humulus,NDUFV2,Nuclear,Mitochondria,I,2244.79
+Humulus,NDUFB9,Nuclear,Mitochondria,I,5745.31
+Humulus,NDUFS7,Nuclear,Mitochondria,I,9178.14
+Humulus,NDUFA8b1,Nuclear,Mitochondria,I,1005.55
+Humulus,NDUFA8b2,Nuclear,Mitochondria,I,886.99
+Humulus,NDUFS1,Nuclear,Mitochondria,I,3736.56
+Humulus,NDUFA2,Nuclear,Mitochondria,I,2961.79
+Humulus,NDUFA5,Nuclear,Mitochondria,I,7726.6
+Humulus,NDUFS4,Nuclear,Mitochondria,I,1679.44
+Humulus,sdh3,Nuclear,Mitochondria,II,3705.55
+Humulus,sdh5,Nuclear,Mitochondria,II,3072.76
+Humulus,sdh1,Nuclear,Mitochondria,II,2391.14
+Humulus,sdh2,Nuclear,Mitochondria,II,2681.65
+Humulus,sdh6,Nuclear,Mitochondria,II,4156.01
+Humulus,sdh7,Nuclear,Mitochondria,II,2254.06
+Humulus,cyc1,Nuclear,Mitochondria,III,8068.13
+Humulus,mppalpha,Nuclear,Mitochondria,III,1286.43
+Humulus,qcr6,Nuclear,Mitochondria,III,10151.15
+Humulus,qcr7,Nuclear,Mitochondria,III,16408.56
+Humulus,qcr9,Nuclear,Mitochondria,III,5011.5
+Humulus,ucr1,Nuclear,Mitochondria,III,5616.19
+Humulus,ucrq,Nuclear,Mitochondria,III,121.54
+Humulus,cox5b,Nuclear,Mitochondria,IV,1588.46
+Humulus,cox5c,Nuclear,Mitochondria,IV,21275.89
+Humulus,cox6a,Nuclear,Mitochondria,IV,6893.01
+Humulus,cox6b,Nuclear,Mitochondria,IV,9631.52
+Humulus,cox6c,Nuclear,Mitochondria,IV,17268.98
+Humulus,atp15,Nuclear,Mitochondria,V,8247.82
+Humulus,atp16,Nuclear,Mitochondria,V,3626.72
+Humulus,atp17,Nuclear,Mitochondria,V,11299.35
+Humulus,atp2,Nuclear,Mitochondria,V,9831.12
+Humulus,atp3,Nuclear,Mitochondria,V,4951.78
+Humulus,atp5,Nuclear,Mitochondria,V,2372.61
+Humulus,atp7,Nuclear,Mitochondria,V,3610.67
+Lupinus,sdh4 ,Nuclear,Mitochondria,II,1821.15
+Lupinus,nad1,Mitochondria,Mitochondria,I,22133.01
+Lupinus,nad2,Mitochondria,Mitochondria,I,31348.09
+Lupinus,nad3,Mitochondria,Mitochondria,I,27.3
+Lupinus,nad4,Mitochondria,Mitochondria,I,37157.85
+Lupinus,nad4L,Mitochondria,Mitochondria,I,27424.62
+Lupinus,nad5,Mitochondria,Mitochondria,I,42134.46
+Lupinus,nad6,Mitochondria,Mitochondria,I,54048.58
+Lupinus,nad7,Mitochondria,Mitochondria,I,84270.57
+Lupinus,nad9,Mitochondria,Mitochondria,I,48049.23
+Lupinus,sdh4,Mitochondria,Mitochondria,II,80224.64
+Lupinus,cob,Mitochondria,Mitochondria,III,45934.74
+Lupinus,cox1,Mitochondria,Mitochondria,IV,55575.6
+Lupinus,cox2,Mitochondria,Mitochondria,IV,65561.47
+Lupinus,cox3,Mitochondria,Mitochondria,IV,67019.96
+Lupinus,atp1,Mitochondria,Mitochondria,V,125974.51
+Lupinus,atp4,Mitochondria,Mitochondria,V,45794.26
+Lupinus,atp6,Mitochondria,Mitochondria,V,47331.93
+Lupinus,atp9,Mitochondria,Mitochondria,V,618455.74
+Lupinus,NDUFA12b,Nuclear,Mitochondria,I,2291.01
+Lupinus,NDUSF8b,Nuclear,Mitochondria,I,2156.62
+Lupinus,FPBP11,Nuclear,Mitochondria,I,2960.31
+Lupinus,FPBP12,Nuclear,Mitochondria,I,2275.17
+Lupinus,NDUFB10a,Nuclear,Mitochondria,I,2133.92
+Lupinus,NDUSF8a,Nuclear,Mitochondria,I,2207.64
+Lupinus,NDUFB7,Nuclear,Mitochondria,I,4562.87
+Lupinus,NDUFA9,Nuclear,Mitochondria,I,2971.99
+Lupinus,NDU16,Nuclear,Mitochondria,I,2834.42
+Lupinus,NDUFA12a,Nuclear,Mitochondria,I,2282.26
+Lupinus,NDUFS5b,Nuclear,Mitochondria,I,3657.04
+Lupinus,NDUFS6,Nuclear,Mitochondria,I,4106.04
+Lupinus,NDUFA11,Nuclear,Mitochondria,I,4687.6
+Lupinus,NDUFA8a1,Nuclear,Mitochondria,I,726.65
+Lupinus,NDUFA8a2,Nuclear,Mitochondria,I,554.11
+Lupinus,NDUFA1,Nuclear,Mitochondria,I,6847.27
+Lupinus,NDUFA6,Nuclear,Mitochondria,I,4758.39
+Lupinus,NDUFB10b,Nuclear,Mitochondria,I,3038.51
+Lupinus,FPBP3,Nuclear,Mitochondria,I,2525.71
+Lupinus,NDUFS5a,Nuclear,Mitochondria,I,3561.19
+Lupinus,NDUFV2,Nuclear,Mitochondria,I,4425.33
+Lupinus,NDUFB9,Nuclear,Mitochondria,I,7632.04
+Lupinus,NDUFS7,Nuclear,Mitochondria,I,1081.73
+Lupinus,NDUFA8b1,Nuclear,Mitochondria,I,517.59
+Lupinus,NDUFA8b2,Nuclear,Mitochondria,I,781.05
+Lupinus,NDUFS1,Nuclear,Mitochondria,I,2810.16
+Lupinus,NDUFA2,Nuclear,Mitochondria,I,3491.92
+Lupinus,NDUFA5,Nuclear,Mitochondria,I,7190.87
+Lupinus,NDUFS4,Nuclear,Mitochondria,I,2560.91
+Lupinus,sdh5,Nuclear,Mitochondria,II,2435.96
+Lupinus,sdh3,Nuclear,Mitochondria,II,1936.17
+Lupinus,sdh1,Nuclear,Mitochondria,II,2392.22
+Lupinus,sdh2,Nuclear,Mitochondria,II,4109.99
+Lupinus,sdh6,Nuclear,Mitochondria,II,3244.71
+Lupinus,sdh7,Nuclear,Mitochondria,II,5416.3
+Lupinus,cyc1,Nuclear,Mitochondria,III,2808.57
+Lupinus,mppalpha,Nuclear,Mitochondria,III,1124.43
+Lupinus,qcr6,Nuclear,Mitochondria,III,3303.4
+Lupinus,qcr7,Nuclear,Mitochondria,III,5552.54
+Lupinus,qcr9,Nuclear,Mitochondria,III,9424.14
+Lupinus,ucr1,Nuclear,Mitochondria,III,5540.1
+Lupinus,ucrq,Nuclear,Mitochondria,III,16102.77
+Lupinus,cox5b,Nuclear,Mitochondria,IV,8336.42
+Lupinus,cox5c,Nuclear,Mitochondria,IV,15499.47
+Lupinus,cox6a,Nuclear,Mitochondria,IV,7492.82
+Lupinus,cox6b,Nuclear,Mitochondria,IV,9157.89
+Lupinus,cox6c,Nuclear,Mitochondria,IV,25.37
+Lupinus,atp15,Nuclear,Mitochondria,V,12905.77
+Lupinus,atp16,Nuclear,Mitochondria,V,5434.27
+Lupinus,atp17,Nuclear,Mitochondria,V,15035.68
+Lupinus,atp2,Nuclear,Mitochondria,V,19768.11
+Lupinus,atp3,Nuclear,Mitochondria,V,9223.63
+Lupinus,atp5,Nuclear,Mitochondria,V,11894.6
+Lupinus,atp7,Nuclear,Mitochondria,V,8941.76
+Nicotiana,nad2,Mitochondria,Mitochondria,I,42396.31
+Nicotiana,nad3,Mitochondria,Mitochondria,I,26298.34
+Nicotiana,nad4,Mitochondria,Mitochondria,I,26623.75
+Nicotiana,nad4L,Mitochondria,Mitochondria,I,40280.73
+Nicotiana,nad5,Mitochondria,Mitochondria,I,56322.18
+Nicotiana,nad6,Mitochondria,Mitochondria,I,30738.3
+Nicotiana,nad7,Mitochondria,Mitochondria,I,59817.41
+Nicotiana,nad9,Mitochondria,Mitochondria,I,63501
+Nicotiana,sdh3,Mitochondria,Mitochondria,II,44191.24
+Nicotiana,sdh4,Mitochondria,Mitochondria,II,65412.31
+Nicotiana,cob,Mitochondria,Mitochondria,III,37582.95
+Nicotiana,cox1,Mitochondria,Mitochondria,IV,126837.73
+Nicotiana,cox2,Mitochondria,Mitochondria,IV,118949.82
+Nicotiana,cox3,Mitochondria,Mitochondria,IV,38720.37
+Nicotiana,atp1,Mitochondria,Mitochondria,V,75742.14
+Nicotiana,atp4,Mitochondria,Mitochondria,V,87150.18
+Nicotiana,atp6,Mitochondria,Mitochondria,V,73450.22
+Nicotiana,atp8,Mitochondria,Mitochondria,V,32108.44
+Nicotiana,atp9,Mitochondria,Mitochondria,V,120806.49
+Nicotiana,NDUFA12b,Nuclear,Mitochondria,I,1126.91
+Nicotiana,NDUSF8b,Nuclear,Mitochondria,I,420.92
+Nicotiana,FPBP11,Nuclear,Mitochondria,I,863.22
+Nicotiana,FPBP12,Nuclear,Mitochondria,I,799.91
+Nicotiana,NDUFB10a,Nuclear,Mitochondria,I,729.23
+Nicotiana,NDUSF8a,Nuclear,Mitochondria,I,457.21
+Nicotiana,NDUFB7,Nuclear,Mitochondria,I,433.29
+Nicotiana,NDUFA9,Nuclear,Mitochondria,I,1385.89
+Nicotiana,NDU16,Nuclear,Mitochondria,I,483.91
+Nicotiana,NDUFA12a,Nuclear,Mitochondria,I,1143.12
+Nicotiana,NDUFS5b,Nuclear,Mitochondria,I,277.47
+Nicotiana,NDUFS6,Nuclear,Mitochondria,I,1010.19
+Nicotiana,NDUFA11,Nuclear,Mitochondria,I,647.46
+Nicotiana,NDUFA8a1,Nuclear,Mitochondria,I,490.49
+Nicotiana,NDUFA8a2,Nuclear,Mitochondria,I,256.18
+Nicotiana,NDUFA1,Nuclear,Mitochondria,I,1406.1
+Nicotiana,NDUFA6,Nuclear,Mitochondria,I,542.29
+Nicotiana,NDUFB10b,Nuclear,Mitochondria,I,956.65
+Nicotiana,FPBP3,Nuclear,Mitochondria,I,640.53
+Nicotiana,NDUFS5a,Nuclear,Mitochondria,I,307.47
+Nicotiana,NDUFV2,Nuclear,Mitochondria,I,1001.98
+Nicotiana,NDUFB9,Nuclear,Mitochondria,I,545.4
+Nicotiana,NDUFS7,Nuclear,Mitochondria,I,1533.17
+Nicotiana,NDUFA8b1,Nuclear,Mitochondria,I,326.63
+Nicotiana,NDUFA8b2,Nuclear,Mitochondria,I,526.97
+Nicotiana,NDUFS1,Nuclear,Mitochondria,I,1352.19
+Nicotiana,NDUFA2,Nuclear,Mitochondria,I,1135.59
+Nicotiana,NDUFA5,Nuclear,Mitochondria,I,1571.16
+Nicotiana,NDUFS4,Nuclear,Mitochondria,I,1895.59
+Nicotiana,sdh5,Nuclear,Mitochondria,II,1173.01
+Nicotiana,sdh1,Nuclear,Mitochondria,II,1704.18
+Nicotiana,sdh2,Nuclear,Mitochondria,II,2023.22
+Nicotiana,sdh6,Nuclear,Mitochondria,II,791.61
+Nicotiana,sdh7,Nuclear,Mitochondria,II,1090.94
+Nicotiana,cyc1,Nuclear,Mitochondria,III,1360.66
+Nicotiana,mppalpha,Nuclear,Mitochondria,III,1191.95
+Nicotiana,qcr6,Nuclear,Mitochondria,III,3185.66
+Nicotiana,qcr7,Nuclear,Mitochondria,III,2223.11
+Nicotiana,qcr9,Nuclear,Mitochondria,III,1730.58
+Nicotiana,ucr1,Nuclear,Mitochondria,III,1568.78
+Nicotiana,ucrq,Nuclear,Mitochondria,III,1229.87
+Nicotiana,cox5b,Nuclear,Mitochondria,IV,1140.39
+Nicotiana,cox5c,Nuclear,Mitochondria,IV,3169.66
+Nicotiana,cox6a,Nuclear,Mitochondria,IV,2373.27
+Nicotiana,cox6b,Nuclear,Mitochondria,IV,3079.82
+Nicotiana,cox6c,Nuclear,Mitochondria,IV,279.58
+Nicotiana,atp15,Nuclear,Mitochondria,V,964.18
+Nicotiana,atp16,Nuclear,Mitochondria,V,507.27
+Nicotiana,atp17,Nuclear,Mitochondria,V,2747.5
+Nicotiana,atp2,Nuclear,Mitochondria,V,3145.64
+Nicotiana,atp3,Nuclear,Mitochondria,V,1750.33
+Nicotiana,atp5,Nuclear,Mitochondria,V,2408.05
+Nicotiana,atp7,Nuclear,Mitochondria,V,731.03
+Sconica,nad1,Mitochondria,Mitochondria,I,29724.64
+Sconica,nad2,Mitochondria,Mitochondria,I,34031.49
+Sconica,nad3,Mitochondria,Mitochondria,I,21865.62
+Sconica,nad4,Mitochondria,Mitochondria,I,57717.5
+Sconica,nad4L,Mitochondria,Mitochondria,I,846.93
+Sconica,nad5,Mitochondria,Mitochondria,I,42355.02
+Sconica,nad6,Mitochondria,Mitochondria,I,64284.84
+Sconica,nad7,Mitochondria,Mitochondria,I,55746.55
+Sconica,nad9,Mitochondria,Mitochondria,I,55256.33
+Sconica,cob,Mitochondria,Mitochondria,III,125521.01
+Sconica,cox1,Mitochondria,Mitochondria,IV,90672.11
+Sconica,cox2,Mitochondria,Mitochondria,IV,56532.02
+Sconica,cox3,Mitochondria,Mitochondria,IV,84653.57
+Sconica,atp1,Mitochondria,Mitochondria,V,153854.46
+Sconica,atp4,Mitochondria,Mitochondria,V,49500.44
+Sconica,atp6,Mitochondria,Mitochondria,V,96695.9
+Sconica,atp8,Mitochondria,Mitochondria,V,38064.66
+Sconica,atp9,Mitochondria,Mitochondria,V,374493.48
+Sconica,NDUFA12b,Nuclear,Mitochondria,I,2037.15
+Sconica,NDUSF8b,Nuclear,Mitochondria,I,2287.91
+Sconica,FPBP11,Nuclear,Mitochondria,I,4349.07
+Sconica,FPBP12,Nuclear,Mitochondria,I,2278.7
+Sconica,NDUFB10a,Nuclear,Mitochondria,I,4654.37
+Sconica,NDUSF8a,Nuclear,Mitochondria,I,1715.93
+Sconica,NDUFA9,Nuclear,Mitochondria,I,2086.42
+Sconica,NDU16,Nuclear,Mitochondria,I,2629.7
+Sconica,NDUFA12a,Nuclear,Mitochondria,I,2037.15
+Sconica,NDUFA11,Nuclear,Mitochondria,I,4575.82
+Sconica,NDUFA8a1,Nuclear,Mitochondria,I,751.87
+Sconica,NDUFA6,Nuclear,Mitochondria,I,6436.32
+Sconica,NDUFB10b,Nuclear,Mitochondria,I,9443.1
+Sconica,FPBP3,Nuclear,Mitochondria,I,5978.31
+Sconica,NDUFS5a,Nuclear,Mitochondria,I,3424.22
+Sconica,NDUFB9,Nuclear,Mitochondria,I,2088.62
+Sconica,NDUFS7,Nuclear,Mitochondria,I,4187.64
+Sconica,NDUFA8b1,Nuclear,Mitochondria,I,6675.63
+Sconica,NDUFA8b2,Nuclear,Mitochondria,I,4511.24
+Sconica,NDUFS1,Nuclear,Mitochondria,I,4158.19
+Sconica,NDUFA2,Nuclear,Mitochondria,I,6317.16
+Sconica,NDUFA5,Nuclear,Mitochondria,I,1973.89
+Sconica,NDUFS4,Nuclear,Mitochondria,I,8221.97
+Sconica,sdh3,Nuclear,Mitochondria,II,1962.79
+Sconica,sdh5,Nuclear,Mitochondria,II,4803.33
+Sconica,sdh1,Nuclear,Mitochondria,II,3467.33
+Sconica,sdh2,Nuclear,Mitochondria,II,3290.36
+Sconica,sdh6,Nuclear,Mitochondria,II,3395.25
+Sconica,sdh7,Nuclear,Mitochondria,II,2153.16
+Sconica,cyc1,Nuclear,Mitochondria,III,5635.32
+Sconica,mppalpha,Nuclear,Mitochondria,III,5586.21
+Sconica,qcr7,Nuclear,Mitochondria,III,16933.52
+Sconica,qcr9,Nuclear,Mitochondria,III,2925.73
+Sconica,ucr1,Nuclear,Mitochondria,III,8218.01
+Sconica,ucrq,Nuclear,Mitochondria,III,12637.23
+Sconica,cox5b,Nuclear,Mitochondria,IV,293.13
+Sconica,cox6a,Nuclear,Mitochondria,IV,10526.23
+Sconica,cox6b,Nuclear,Mitochondria,IV,4914.74
+Sconica,cox6c,Nuclear,Mitochondria,IV,4481.01
+Sconica,atp15,Nuclear,Mitochondria,V,61495.05
+Sconica,atp16,Nuclear,Mitochondria,V,4833.55
+Sconica,atp17,Nuclear,Mitochondria,V,7322.23
+Sconica,atp2,Nuclear,Mitochondria,V,8261.07
+Sconica,atp3,Nuclear,Mitochondria,V,5525.01
+Sconica,atp5,Nuclear,Mitochondria,V,10765.19
+Sconica,atp7,Nuclear,Mitochondria,V,7058.04
+Smacrodonta,nad1,Mitochondria,Mitochondria,I,33981.98
+Smacrodonta,nad2,Mitochondria,Mitochondria,I,32972.47
+Smacrodonta,nad3,Mitochondria,Mitochondria,I,5734.46
+Smacrodonta,nad4,Mitochondria,Mitochondria,I,32621.03
+Smacrodonta,nad4L,Mitochondria,Mitochondria,I,22266.17
+Smacrodonta,nad5,Mitochondria,Mitochondria,I,33340.41
+Smacrodonta,nad6,Mitochondria,Mitochondria,I,75192.63
+Smacrodonta,nad7,Mitochondria,Mitochondria,I,32912.81
+Smacrodonta,nad9,Mitochondria,Mitochondria,I,74067.54
+Smacrodonta,cob,Mitochondria,Mitochondria,III,116116.94
+Smacrodonta,cox1,Mitochondria,Mitochondria,IV,151984.51
+Smacrodonta,cox2,Mitochondria,Mitochondria,IV,75154.21
+Smacrodonta,cox3,Mitochondria,Mitochondria,IV,76418.86
+Smacrodonta,atp1,Mitochondria,Mitochondria,V,161302.05
+Smacrodonta,atp4,Mitochondria,Mitochondria,V,52421.25
+Smacrodonta,atp6,Mitochondria,Mitochondria,V,112776.13
+Smacrodonta,atp8,Mitochondria,Mitochondria,V,26497.29
+Smacrodonta,atp9,Mitochondria,Mitochondria,V,274960.5
+Smacrodonta,NDUFA11,Nuclear,Mitochondria,I,5476.39
+Smacrodonta,NDUFA12a,Nuclear,Mitochondria,I,812.06
+Smacrodonta,NDUFA12b,Nuclear,Mitochondria,I,1218.09
+Smacrodonta,NDUFA2,Nuclear,Mitochondria,I,6032.78
+Smacrodonta,NDUFA5,Nuclear,Mitochondria,I,591.04
+Smacrodonta,NDUFA6,Nuclear,Mitochondria,I,6251.53
+Smacrodonta,NDUFA8b2,Nuclear,Mitochondria,I,898.28
+Smacrodonta,NDUFA9,Nuclear,Mitochondria,I,1583.59
+Smacrodonta,NDUFB10b,Nuclear,Mitochondria,I,2417.48
+Smacrodonta,NDUFB7,Nuclear,Mitochondria,I,2024.2
+Smacrodonta,NDUFB9,Nuclear,Mitochondria,I,1389.55
+Smacrodonta,NDUFS1,Nuclear,Mitochondria,I,3499.13
+Smacrodonta,NDUFS4,Nuclear,Mitochondria,I,5100.76
+Smacrodonta,NDUFS5b,Nuclear,Mitochondria,I,16271.47
+Smacrodonta,NDUFS6,Nuclear,Mitochondria,I,4906.43
+Smacrodonta,NDUFS7,Nuclear,Mitochondria,I,2004.99
+Smacrodonta,NDUFV2,Nuclear,Mitochondria,I,1651.12
+Smacrodonta,NDUSF8a,Nuclear,Mitochondria,I,1026.82
+Smacrodonta,NDUSF8b,Nuclear,Mitochondria,I,342.27
+Smacrodonta,FPBP11,Nuclear,Mitochondria,I,1157.66
+Smacrodonta,FPBP12,Nuclear,Mitochondria,I,1168.06
+Smacrodonta,FPBP3,Nuclear,Mitochondria,I,4010.37
+Smacrodonta,sdh1,Nuclear,Mitochondria,II,2141.44
+Smacrodonta,sdh2,Nuclear,Mitochondria,II,1608.46
+Smacrodonta,sdh6,Nuclear,Mitochondria,II,4466.32
+Smacrodonta,sdh7,Nuclear,Mitochondria,II,2572.39
+Smacrodonta,sdh3,Nuclear,Mitochondria,II,2165.64
+Smacrodonta,sdh4,Nuclear,Mitochondria,II,533.8
+Smacrodonta,sdh5,Nuclear,Mitochondria,II,1374.27
+Smacrodonta,qcr7,Nuclear,Mitochondria,III,18217.6
+Smacrodonta,ucr1,Nuclear,Mitochondria,III,4497.87
+Smacrodonta,mppalpha,Nuclear,Mitochondria,III,4307.6
+Smacrodonta,cyc1,Nuclear,Mitochondria,III,4638.89
+Smacrodonta,cox5b,Nuclear,Mitochondria,IV,4580.95
+Smacrodonta,cox6a,Nuclear,Mitochondria,IV,6287.94
+Smacrodonta,cox6b,Nuclear,Mitochondria,IV,5535.02
+Smacrodonta,cox6c,Nuclear,Mitochondria,IV,5304.96
+Smacrodonta,atp15,Nuclear,Mitochondria,V,32985.34
+Smacrodonta,atp16,Nuclear,Mitochondria,V,5702.4
+Smacrodonta,atp17,Nuclear,Mitochondria,V,5787.2
+Smacrodonta,atp2,Nuclear,Mitochondria,V,7571.04
+Smacrodonta,atp3,Nuclear,Mitochondria,V,6873.95
+Smacrodonta,atp5,Nuclear,Mitochondria,V,6822.35
+Smacrodonta,atp7,Nuclear,Mitochondria,V,6943.3
+Snoctiflora,nad1,Mitochondria,Mitochondria,I,34109.54
+Snoctiflora,nad2,Mitochondria,Mitochondria,I,52034.41
+Snoctiflora,nad3,Mitochondria,Mitochondria,I,16321.65
+Snoctiflora,nad4,Mitochondria,Mitochondria,I,26407.05
+Snoctiflora,nad4L,Mitochondria,Mitochondria,I,29312.88
+Snoctiflora,nad5,Mitochondria,Mitochondria,I,65596.82
+Snoctiflora,nad6,Mitochondria,Mitochondria,I,36321.89
+Snoctiflora,nad7,Mitochondria,Mitochondria,I,43000.35
+Snoctiflora,nad9,Mitochondria,Mitochondria,I,29713.26
+Snoctiflora,cob,Mitochondria,Mitochondria,III,58304.56
+Snoctiflora,cox1,Mitochondria,Mitochondria,IV,69359.41
+Snoctiflora,cox2,Mitochondria,Mitochondria,IV,46532.85
+Snoctiflora,cox3,Mitochondria,Mitochondria,IV,78203.67
+Snoctiflora,atp1,Mitochondria,Mitochondria,V,54383.34
+Snoctiflora,atp4,Mitochondria,Mitochondria,V,47005.3
+Snoctiflora,atp6,Mitochondria,Mitochondria,V,149626.13
+Snoctiflora,atp8,Mitochondria,Mitochondria,V,38990.7
+Snoctiflora,atp9,Mitochondria,Mitochondria,V,715488.19
+Snoctiflora,NDUFA2,Nuclear,Mitochondria,I,1465.7
+Snoctiflora,NDUFA1,Nuclear,Mitochondria,I,1511.85
+Snoctiflora,NDUFS5b,Nuclear,Mitochondria,I,626.61
+Snoctiflora,NDUFS5a,Nuclear,Mitochondria,I,630.32
+Snoctiflora,NDUFA8a2,Nuclear,Mitochondria,I,252.92
+Snoctiflora,NDUFA8b1,Nuclear,Mitochondria,I,311.28
+Snoctiflora,FPBP11,Nuclear,Mitochondria,I,396.89
+Snoctiflora,NDUFB10a,Nuclear,Mitochondria,I,877.02
+Snoctiflora,NDUFB10b,Nuclear,Mitochondria,I,910.59
+Snoctiflora,NDUFB7,Nuclear,Mitochondria,I,879.45
+Snoctiflora,NDUFB9,Nuclear,Mitochondria,I,455.65
+Snoctiflora,NDUFA6,Nuclear,Mitochondria,I,1330.11
+Snoctiflora,NDUFS6,Nuclear,Mitochondria,I,5381.74
+Snoctiflora,NDUFA11,Nuclear,Mitochondria,I,1756.98
+Snoctiflora,NDUFS4,Nuclear,Mitochondria,I,722.98
+Snoctiflora,NDUFA8a1,Nuclear,Mitochondria,I,281.47
+Snoctiflora,NDUFA8b2,Nuclear,Mitochondria,I,237.36
+Snoctiflora,NDUFA12b,Nuclear,Mitochondria,I,574.9
+Snoctiflora,NDUFA12a,Nuclear,Mitochondria,I,581.71
+Snoctiflora,NDUFA5,Nuclear,Mitochondria,I,918.25
+Snoctiflora,NDU16,Nuclear,Mitochondria,I,2179.61
+Snoctiflora,FPBP3,Nuclear,Mitochondria,I,587.1
+Snoctiflora,NDUFS7,Nuclear,Mitochondria,I,1543.13
+Snoctiflora,NDUFV2,Nuclear,Mitochondria,I,1132.16
+Snoctiflora,NDUSF8b,Nuclear,Mitochondria,I,402.26
+Snoctiflora,NDUSF8a,Nuclear,Mitochondria,I,416.93
+Snoctiflora,NDUFA9,Nuclear,Mitochondria,I,485.34
+Snoctiflora,NDUFS1,Nuclear,Mitochondria,I,1006.27
+Snoctiflora,FPBP12,Nuclear,Mitochondria,I,236.27
+Snoctiflora,sdh3,Nuclear,Mitochondria,II,438.17
+Snoctiflora,sdh4,Nuclear,Mitochondria,II,660.14
+Snoctiflora,sdh5,Nuclear,Mitochondria,II,600.01
+Snoctiflora,sdh1,Nuclear,Mitochondria,II,763.22
+Snoctiflora,sdh2,Nuclear,Mitochondria,II,517.25
+Snoctiflora,sdh6,Nuclear,Mitochondria,II,816.31
+Snoctiflora,sdh7,Nuclear,Mitochondria,II,2265.9
+Snoctiflora,cyc1,Nuclear,Mitochondria,III,1889.62
+Snoctiflora,mppalpha,Nuclear,Mitochondria,III,977.96
+Snoctiflora,qcr6,Nuclear,Mitochondria,III,3512.75
+Snoctiflora,qcr7,Nuclear,Mitochondria,III,5388.71
+Snoctiflora,qcr9,Nuclear,Mitochondria,III,1475.57
+Snoctiflora,ucr1,Nuclear,Mitochondria,III,1458.26
+Snoctiflora,ucrq,Nuclear,Mitochondria,III,3023.68
+Snoctiflora,cox5b,Nuclear,Mitochondria,IV,993.86
+Snoctiflora,cox5c,Nuclear,Mitochondria,IV,3080.38
+Snoctiflora,cox6a,Nuclear,Mitochondria,IV,1854.74
+Snoctiflora,cox6b,Nuclear,Mitochondria,IV,1404.81
+Snoctiflora,cox6c,Nuclear,Mitochondria,IV,227.11
+Snoctiflora,atp15,Nuclear,Mitochondria,V,1894.16
+Snoctiflora,atp16,Nuclear,Mitochondria,V,1006.76
+Snoctiflora,atp17,Nuclear,Mitochondria,V,4190.14
+Snoctiflora,atp2,Nuclear,Mitochondria,V,2676.59
+Snoctiflora,atp3,Nuclear,Mitochondria,V,1319.61
+Snoctiflora,atp5,Nuclear,Mitochondria,V,1755.55
+Snoctiflora,atp7,Nuclear,Mitochondria,V,2955.6
+Vigna,nad1,Mitochondria,Mitochondria,I,19719.93
+Vigna,nad2,Mitochondria,Mitochondria,I,35778.56
+Vigna,nad3,Mitochondria,Mitochondria,I,48662.85
+Vigna,nad4,Mitochondria,Mitochondria,I,63616.03
+Vigna,nad4L,Mitochondria,Mitochondria,I,21405.5
+Vigna,nad5,Mitochondria,Mitochondria,I,39150.84
+Vigna,nad6,Mitochondria,Mitochondria,I,59543.26
+Vigna,nad7,Mitochondria,Mitochondria,I,70314.67
+Vigna,nad9,Mitochondria,Mitochondria,I,47829.17
+Vigna,cob,Mitochondria,Mitochondria,III,80472.65
+Vigna,cox1,Mitochondria,Mitochondria,IV,88877.63
+Vigna,cox3,Mitochondria,Mitochondria,IV,71755.17
+Vigna,atp1,Mitochondria,Mitochondria,V,110532.23
+Vigna,atp4,Mitochondria,Mitochondria,V,65999.74
+Vigna,atp6,Mitochondria,Mitochondria,V,147091.37
+Vigna,atp8,Mitochondria,Mitochondria,V,159658.24
+Vigna,NDUFA12b,Nuclear,Mitochondria,I,1348.01
+Vigna,NDUSF8b,Nuclear,Mitochondria,I,4010.76
+Vigna,FPBP11,Nuclear,Mitochondria,I,2265.4
+Vigna,FPBP12,Nuclear,Mitochondria,I,1537.03
+Vigna,NDUFB10a,Nuclear,Mitochondria,I,3074.48
+Vigna,NDUSF8a,Nuclear,Mitochondria,I,3879.69
+Vigna,NDUFB7,Nuclear,Mitochondria,I,5732.36
+Vigna,NDUFA9,Nuclear,Mitochondria,I,2071.67
+Vigna,NDU16,Nuclear,Mitochondria,I,8485.05
+Vigna,NDUFA12a,Nuclear,Mitochondria,I,1437.88
+Vigna,NDUFS5b,Nuclear,Mitochondria,I,682.3
+Vigna,NDUFS6,Nuclear,Mitochondria,I,3900.37
+Vigna,NDUFA11,Nuclear,Mitochondria,I,1913.63
+Vigna,NDUFA8a1,Nuclear,Mitochondria,I,252.05
+Vigna,NDUFA8a2,Nuclear,Mitochondria,I,103.91
+Vigna,NDUFA6,Nuclear,Mitochondria,I,3211.24
+Vigna,NDUFB10b,Nuclear,Mitochondria,I,2873.41
+Vigna,FPBP3,Nuclear,Mitochondria,I,2260.4
+Vigna,NDUFV2,Nuclear,Mitochondria,I,2478.65
+Vigna,NDUFB9,Nuclear,Mitochondria,I,4381.58
+Vigna,NDUFS7,Nuclear,Mitochondria,I,5246.84
+Vigna,NDUFA8b2,Nuclear,Mitochondria,I,403.28
+Vigna,NDUFS1,Nuclear,Mitochondria,I,1324.57
+Vigna,NDUFA2,Nuclear,Mitochondria,I,3383.3
+Vigna,NDUFA5,Nuclear,Mitochondria,I,3588.68
+Vigna,NDUFS4,Nuclear,Mitochondria,I,3686.15
+Vigna,sdh3,Nuclear,Mitochondria,II,636.78
+Vigna,sdh4,Nuclear,Mitochondria,II,347.71
+Vigna,sdh1,Nuclear,Mitochondria,II,2874
+Vigna,sdh2,Nuclear,Mitochondria,II,3284.85
+Vigna,sdh5,Nuclear,Mitochondria,II,1920.33
+Vigna,sdh6,Nuclear,Mitochondria,II,1840.08
+Vigna,sdh7,Nuclear,Mitochondria,II,860.57
+Vigna,cyc1,Nuclear,Mitochondria,III,4058.74
+Vigna,mppalpha,Nuclear,Mitochondria,III,1995.09
+Vigna,qcr6,Nuclear,Mitochondria,III,2206.06
+Vigna,qcr7,Nuclear,Mitochondria,III,6830.51
+Vigna,qcr9,Nuclear,Mitochondria,III,1658.83
+Vigna,ucr1,Nuclear,Mitochondria,III,4967.19
+Vigna,ucrq,Nuclear,Mitochondria,III,3130.39
+Vigna,cox2,Nuclear,Mitochondria,IV,6906.5
+Vigna,cox5b,Nuclear,Mitochondria,IV,1063.36
+Vigna,cox5c,Nuclear,Mitochondria,IV,4066.42
+Vigna,cox6a,Nuclear,Mitochondria,IV,5264.6
+Vigna,cox6b,Nuclear,Mitochondria,IV,8438.03
+Vigna,cox6c,Nuclear,Mitochondria,IV,1071.2
+Vigna,atp15,Nuclear,Mitochondria,V,863.91
+Vigna,atp16,Nuclear,Mitochondria,V,919.74
+Vigna,atp17,Nuclear,Mitochondria,V,4679.78
+Vigna,atp2,Nuclear,Mitochondria,V,13995.47
+Vigna,atp3,Nuclear,Mitochondria,V,6597.05
+Vigna,atp5,Nuclear,Mitochondria,V,5391.47
+Vigna,atp7,Nuclear,Mitochondria,V,8700.9
+Vitis,nad1,Mitochondria,Mitochondria,I,30708.16
+Vitis,nad2,Mitochondria,Mitochondria,I,34823.25
+Vitis,nad3,Mitochondria,Mitochondria,I,6727.6
+Vitis,nad4,Mitochondria,Mitochondria,I,36693.69
+Vitis,nad4L,Mitochondria,Mitochondria,I,19524.07
+Vitis,nad5,Mitochondria,Mitochondria,I,42524.12
+Vitis,nad6,Mitochondria,Mitochondria,I,33850.49
+Vitis,nad7,Mitochondria,Mitochondria,I,51190.96
+Vitis,nad9,Mitochondria,Mitochondria,I,44202.02
+Vitis,sdh3,Mitochondria,Mitochondria,II,11411.57
+Vitis,sdh4,Mitochondria,Mitochondria,II,46337.54
+Vitis,cob,Mitochondria,Mitochondria,III,69371.38
+Vitis,cox1,Mitochondria,Mitochondria,IV,102463.52
+Vitis,cox2,Mitochondria,Mitochondria,IV,90513.5
+Vitis,cox3,Mitochondria,Mitochondria,IV,48602.23
+Vitis,atp1,Mitochondria,Mitochondria,V,86375.46
+Vitis,atp4,Mitochondria,Mitochondria,V,49610.91
+Vitis,atp6,Mitochondria,Mitochondria,V,52524.18
+Vitis,atp8,Mitochondria,Mitochondria,V,27371.25
+Vitis,atp9,Mitochondria,Mitochondria,V,279853.86
+Vitis,NDUFA12b,Nuclear,Mitochondria,I,706.28
+Vitis,NDUSF8b,Nuclear,Mitochondria,I,1555.1
+Vitis,FPBP11,Nuclear,Mitochondria,I,2591.94
+Vitis,FPBP12,Nuclear,Mitochondria,I,1880.69
+Vitis,NDUFB10a,Nuclear,Mitochondria,I,949.58
+Vitis,NDUSF8a,Nuclear,Mitochondria,I,1866.12
+Vitis,NDUFB7,Nuclear,Mitochondria,I,1175.44
+Vitis,NDUFA9,Nuclear,Mitochondria,I,858.71
+Vitis,NDU16,Nuclear,Mitochondria,I,5153.03
+Vitis,NDUFA12a,Nuclear,Mitochondria,I,908.08
+Vitis,NDUFS6,Nuclear,Mitochondria,I,3228.07
+Vitis,NDUFA11,Nuclear,Mitochondria,I,864.87
+Vitis,NDUFA8a1,Nuclear,Mitochondria,I,660.4
+Vitis,NDUFA8a2,Nuclear,Mitochondria,I,560.56
+Vitis,NDUFA1,Nuclear,Mitochondria,I,1566.84
+Vitis,NDUFA6,Nuclear,Mitochondria,I,3486.5
+Vitis,NDUFB10b,Nuclear,Mitochondria,I,1800.94
+Vitis,FPBP3,Nuclear,Mitochondria,I,2035.99
+Vitis,NDUFS5a,Nuclear,Mitochondria,I,2316.05
+Vitis,NDUFV2,Nuclear,Mitochondria,I,1433.66
+Vitis,NDUFB9,Nuclear,Mitochondria,I,1591.53
+Vitis,NDUFS7,Nuclear,Mitochondria,I,4870.51
+Vitis,NDUFA8b1,Nuclear,Mitochondria,I,356.2
+Vitis,NDUFA8b2,Nuclear,Mitochondria,I,742.95
+Vitis,NDUFS1,Nuclear,Mitochondria,I,2468.58
+Vitis,NDUFA2,Nuclear,Mitochondria,I,1005.44
+Vitis,NDUFA5,Nuclear,Mitochondria,I,1383.04
+Vitis,NDUFS4,Nuclear,Mitochondria,I,1693.3
+Vitis,sdh1,Nuclear,Mitochondria,II,4045.94
+Vitis,sdh2,Nuclear,Mitochondria,II,5951.92
+Vitis,sdh6,Nuclear,Mitochondria,II,2334.33
+Vitis,sdh7,Nuclear,Mitochondria,II,1983.76
+Vitis,sdh5,Nuclear,Mitochondria,II,1251.42
+Vitis,cyc1,Nuclear,Mitochondria,III,4597.07
+Vitis,mppalpha,Nuclear,Mitochondria,III,1947.94
+Vitis,qcr6,Nuclear,Mitochondria,III,2988.99
+Vitis,qcr7,Nuclear,Mitochondria,III,5449.2
+Vitis,qcr9,Nuclear,Mitochondria,III,3339.06
+Vitis,ucr1,Nuclear,Mitochondria,III,4478.19
+Vitis,ucrq,Nuclear,Mitochondria,III,7247.44
+Vitis,cox5b,Nuclear,Mitochondria,IV,2637.88
+Vitis,cox5c,Nuclear,Mitochondria,IV,5132.6
+Vitis,cox6a,Nuclear,Mitochondria,IV,2278.64
+Vitis,cox6b,Nuclear,Mitochondria,IV,3120.41
+Vitis,cox6c,Nuclear,Mitochondria,IV,1299.36
+Vitis,atp15,Nuclear,Mitochondria,V,4935.56
+Vitis,atp16,Nuclear,Mitochondria,V,1314.24
+Vitis,atp17,Nuclear,Mitochondria,V,2195.66
+Vitis,atp2,Nuclear,Mitochondria,V,3747.48
+Vitis,atp3,Nuclear,Mitochondria,V,2104.64
+Vitis,atp5,Nuclear,Mitochondria,V,2077.16
+Vitis,atp7,Nuclear,Mitochondria,V,2168.04
+Humulus,AtpA,Chloroplast,Chloroplast,ChlAtp,124608.99
+Humulus,AtpB,Chloroplast,Chloroplast,ChlAtp,104864.22
+Humulus,AtpE,Chloroplast,Chloroplast,ChlAtp,180611.92
+Humulus,AtpF,Chloroplast,Chloroplast,ChlAtp,92350.98
+Humulus,AtpH,Chloroplast,Chloroplast,ChlAtp,193250.04
+Humulus,AtpI,Chloroplast,Chloroplast,ChlAtp,40026
+Humulus,ClpP,Chloroplast,Chloroplast,ClpP,64629.61
+Humulus,ndhA,Chloroplast,Chloroplast,ChlNDH,45380.86
+Humulus,ndhC,Chloroplast,Chloroplast,ChlNDH,132042.99
+Humulus,ndhD,Chloroplast,Chloroplast,ChlNDH,64796.37
+Humulus,ndhE,Chloroplast,Chloroplast,ChlNDH,102537.11
+Humulus,ndhF,Chloroplast,Chloroplast,ChlNDH,21407.42
+Humulus,ndhG,Chloroplast,Chloroplast,ChlNDH,50702.38
+Humulus,ndhH,Chloroplast,Chloroplast,ChlNDH,36432.69
+Humulus,ndhI,Chloroplast,Chloroplast,ChlNDH,47277.23
+Humulus,ndhJ,Chloroplast,Chloroplast,ChlNDH,35158.27
+Humulus,ndhK,Chloroplast,Chloroplast,ChlNDH,113379.33
+Humulus,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,3904.43
+Humulus,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,7105.57
+Humulus,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,4882.67
+Humulus,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,3634.47
+Humulus,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,4864.88
+Humulus,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,14854.87
+Humulus,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,4499.56
+Humulus,Clp ATPase,Nuclear,Chloroplast,ClpP,9858.99
+Humulus,Clp ATPase,Nuclear,Chloroplast,ClpP,1539.93
+Humulus,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,9408.21
+Humulus,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,1917.03
+Humulus,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,3754.76
+Humulus,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,7148.33
+Humulus,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,1682.49
+Humulus,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,3937.92
+Humulus,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,571.09
+Humulus,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,2007.19
+Humulus,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,5410.47
+Humulus,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,2357.53
+Humulus,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,440.52
+Humulus,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,9624.84
+Humulus,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,9936.74
+Humulus,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,2714.93
+Humulus,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,1349.93
+Humulus,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,5402.47
+Humulus,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,800.21
+Humulus,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,318.67
+Humulus,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,5461.69
+Humulus,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,1194.98
+Lupinus,AtpA,Chloroplast,Chloroplast,ChlAtp,53700.62
+Lupinus,AtpB,Chloroplast,Chloroplast,ChlAtp,46302.55
+Lupinus,AtpE,Chloroplast,Chloroplast,ChlAtp,47004.03
+Lupinus,AtpF,Chloroplast,Chloroplast,ChlAtp,67110.86
+Lupinus,AtpH,Chloroplast,Chloroplast,ChlAtp,131433.33
+Lupinus,AtpI,Chloroplast,Chloroplast,ChlAtp,39881.39
+Lupinus,ClpP,Chloroplast,Chloroplast,ClpP,259189.56
+Lupinus,ndhA,Chloroplast,Chloroplast,ChlNDH,19677.93
+Lupinus,ndhB,Chloroplast,Chloroplast,ChlNDH,16040.13
+Lupinus,ndhC,Chloroplast,Chloroplast,ChlNDH,20289.64
+Lupinus,ndhD,Chloroplast,Chloroplast,ChlNDH,18133.45
+Lupinus,ndhE,Chloroplast,Chloroplast,ChlNDH,20641.14
+Lupinus,ndhF,Chloroplast,Chloroplast,ChlNDH,6987.17
+Lupinus,ndhG,Chloroplast,Chloroplast,ChlNDH,18512.33
+Lupinus,ndhH,Chloroplast,Chloroplast,ChlNDH,23027.45
+Lupinus,ndhI,Chloroplast,Chloroplast,ChlNDH,18685.35
+Lupinus,ndhJ,Chloroplast,Chloroplast,ChlNDH,19509.22
+Lupinus,ndhK,Chloroplast,Chloroplast,ChlNDH,17915.84
+Lupinus,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,65735.63
+Lupinus,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,798.76
+Lupinus,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,419.53
+Lupinus,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,9641.65
+Lupinus,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,85912.55
+Lupinus,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,828.97
+Lupinus,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,486.6
+Lupinus,Clp ATPase,Nuclear,Chloroplast,ClpP,1820.85
+Lupinus,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,9940.6
+Lupinus,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,2965.93
+Lupinus,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,4958.74
+Lupinus,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,11896.97
+Lupinus,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,4317.07
+Lupinus,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,8146
+Lupinus,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,4469.38
+Lupinus,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,3146.11
+Lupinus,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,3486.62
+Lupinus,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,3356.99
+Lupinus,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,1849.34
+Lupinus,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,313.6
+Lupinus,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,174.22
+Lupinus,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,20339.76
+Lupinus,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,27914.07
+Lupinus,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,1269.49
+Lupinus,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,24026.24
+Nicotiana,AtpA,Chloroplast,Chloroplast,ChlAtp,95867.01
+Nicotiana,AtpB,Chloroplast,Chloroplast,ChlAtp,82798.94
+Nicotiana,AtpE,Chloroplast,Chloroplast,ChlAtp,105500.02
+Nicotiana,AtpF,Chloroplast,Chloroplast,ChlAtp,184764.67
+Nicotiana,AtpH,Chloroplast,Chloroplast,ChlAtp,154724.65
+Nicotiana,AtpI,Chloroplast,Chloroplast,ChlAtp,132911.59
+Nicotiana,ClpP,Chloroplast,Chloroplast,ClpP,106576.1
+Nicotiana,ndhA,Chloroplast,Chloroplast,ChlNDH,134614.15
+Nicotiana,ndhC,Chloroplast,Chloroplast,ChlNDH,19321.19
+Nicotiana,ndhD,Chloroplast,Chloroplast,ChlNDH,34572.67
+Nicotiana,ndhE,Chloroplast,Chloroplast,ChlNDH,117465.59
+Nicotiana,ndhF,Chloroplast,Chloroplast,ChlNDH,10836.98
+Nicotiana,ndhG,Chloroplast,Chloroplast,ChlNDH,81365.93
+Nicotiana,ndhH,Chloroplast,Chloroplast,ChlNDH,37860.99
+Nicotiana,ndhI,Chloroplast,Chloroplast,ChlNDH,74716.94
+Nicotiana,ndhJ,Chloroplast,Chloroplast,ChlNDH,19877.82
+Nicotiana,ndhK,Chloroplast,Chloroplast,ChlNDH,18031.95
+Nicotiana,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,2296.57
+Nicotiana,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,5845.16
+Nicotiana,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,2713.89
+Nicotiana,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,5160.01
+Nicotiana,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,3773.02
+Nicotiana,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,10655.95
+Nicotiana,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,2572.11
+Nicotiana,Clp ATPase,Nuclear,Chloroplast,ClpP,3752.88
+Nicotiana,Clp ATPase,Nuclear,Chloroplast,ClpP,3805.29
+Nicotiana,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,3810.21
+Nicotiana,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,562.04
+Nicotiana,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,1569.62
+Nicotiana,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,5081.7
+Nicotiana,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,1394.43
+Nicotiana,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,3089.62
+Nicotiana,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,1740.23
+Nicotiana,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,746.6
+Nicotiana,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,1426.46
+Nicotiana,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,1032.34
+Nicotiana,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,368.95
+Nicotiana,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,8500.72
+Nicotiana,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,8386.09
+Nicotiana,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,367.16
+Nicotiana,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,1790.08
+Nicotiana,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,1825.03
+Nicotiana,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,993.53
+Nicotiana,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,1093.39
+Nicotiana,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,1940.36
+Nicotiana,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,2370.33
+Sconica,AtpA,Chloroplast,Chloroplast,ChlAtp,177861.31
+Sconica,AtpB,Chloroplast,Chloroplast,ChlAtp,148246.09
+Sconica,AtpE,Chloroplast,Chloroplast,ChlAtp,180183.58
+Sconica,AtpF,Chloroplast,Chloroplast,ChlAtp,286853.78
+Sconica,AtpH,Chloroplast,Chloroplast,ChlAtp,760009.02
+Sconica,AtpI,Chloroplast,Chloroplast,ChlAtp,114375.12
+Sconica,ClpP,Chloroplast,Chloroplast,ClpP,19607.2
+Sconica,ndhA,Chloroplast,Chloroplast,ChlNDH,42343.73
+Sconica,ndhD,Chloroplast,Chloroplast,ChlNDH,66896.01
+Sconica,ndhE,Chloroplast,Chloroplast,ChlNDH,141714.27
+Sconica,ndhF,Chloroplast,Chloroplast,ChlNDH,23605.11
+Sconica,ndhG,Chloroplast,Chloroplast,ChlNDH,104407.32
+Sconica,ndhH,Chloroplast,Chloroplast,ChlNDH,21837.15
+Sconica,ndhI,Chloroplast,Chloroplast,ChlNDH,55182.22
+Sconica,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,3369.71
+Sconica,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,15476.29
+Sconica,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,9457.89
+Sconica,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,870.37
+Sconica,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,2725.63
+Sconica,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,16151.09
+Sconica,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,9285.59
+Sconica,Clp ATPase,Nuclear,Chloroplast,ClpP,2715.46
+Sconica,Clp ATPase,Nuclear,Chloroplast,ClpP,2343.96
+Sconica,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,2049.77
+Sconica,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,1805.99
+Sconica,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,856.86
+Sconica,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,1826.65
+Sconica,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,1619.07
+Sconica,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,3472.04
+Sconica,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,2232.14
+Sconica,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,874.16
+Sconica,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,1220.79
+Sconica,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,650.44
+Sconica,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,670.16
+Sconica,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,14488.47
+Sconica,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,14067.15
+Sconica,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,1006.47
+Sconica,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,3515.32
+Sconica,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,198.05
+Sconica,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,2392.38
+Sconica,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,3399.79
+Sconica,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,863.08
+Smacrodonta,AtpA,Chloroplast,Chloroplast,ChlAtp,160129.17
+Smacrodonta,AtpB,Chloroplast,Chloroplast,ChlAtp,131001.42
+Smacrodonta,AtpE,Chloroplast,Chloroplast,ChlAtp,160788.89
+Smacrodonta,AtpF,Chloroplast,Chloroplast,ChlAtp,179088.87
+Smacrodonta,AtpH,Chloroplast,Chloroplast,ChlAtp,537093.62
+Smacrodonta,AtpI,Chloroplast,Chloroplast,ChlAtp,118830.02
+Smacrodonta,ClpP,Chloroplast,Chloroplast,ClpP,44037.83
+Smacrodonta,ndhB,Chloroplast,Chloroplast,ChlNDH,80612.97
+Smacrodonta,ndhC,Chloroplast,Chloroplast,ChlNDH,23920.15
+Smacrodonta,ndhD,Chloroplast,Chloroplast,ChlNDH,64665.53
+Smacrodonta,ndhE,Chloroplast,Chloroplast,ChlNDH,69214.17
+Smacrodonta,ndhG,Chloroplast,Chloroplast,ChlNDH,70694.01
+Smacrodonta,ndhH,Chloroplast,Chloroplast,ChlNDH,26213.49
+Smacrodonta,ndhI,Chloroplast,Chloroplast,ChlNDH,42298.69
+Smacrodonta,ndhJ,Chloroplast,Chloroplast,ChlNDH,66269.05
+Smacrodonta,ndhK,Chloroplast,Chloroplast,ChlNDH,42080.17
+Smacrodonta,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,1464.98
+Smacrodonta,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,8812.29
+Smacrodonta,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,11348.74
+Smacrodonta,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,2563.18
+Smacrodonta,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,1306.29
+Smacrodonta,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,34377.35
+Smacrodonta,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,11984.86
+Smacrodonta,Clp ATPase,Nuclear,Chloroplast,ClpP,2453.08
+Smacrodonta,Clp ATPase,Nuclear,Chloroplast,ClpP,2433.45
+Smacrodonta,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,1914.96
+Smacrodonta,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,2281.08
+Smacrodonta,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,1739.14
+Smacrodonta,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,1734.21
+Smacrodonta,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,861.39
+Smacrodonta,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,2619.79
+Smacrodonta,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,4404.84
+Smacrodonta,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,633.01
+Smacrodonta,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,1568.52
+Smacrodonta,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,796.26
+Smacrodonta,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,704.79
+Smacrodonta,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,13578.31
+Smacrodonta,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,14369.53
+Smacrodonta,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,8203.89
+Smacrodonta,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,915.67
+Smacrodonta,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,3226.23
+Smacrodonta,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,282.9
+Smacrodonta,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,1576.63
+Smacrodonta,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,3276.32
+Smacrodonta,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,200.99
+Snoctiflora,AtpA,Chloroplast,Chloroplast,ChlAtp,79935.22
+Snoctiflora,AtpB,Chloroplast,Chloroplast,ChlAtp,98303.96
+Snoctiflora,AtpE,Chloroplast,Chloroplast,ChlAtp,144923.13
+Snoctiflora,AtpF,Chloroplast,Chloroplast,ChlAtp,823463.13
+Snoctiflora,AtpH,Chloroplast,Chloroplast,ChlAtp,867688.69
+Snoctiflora,AtpI,Chloroplast,Chloroplast,ChlAtp,166636.8
+Snoctiflora,ClpP,Chloroplast,Chloroplast,ClpP,35498.69
+Snoctiflora,ndhC,Chloroplast,Chloroplast,ChlNDH,67493.58
+Snoctiflora,ndhD,Chloroplast,Chloroplast,ChlNDH,88395.29
+Snoctiflora,ndhE,Chloroplast,Chloroplast,ChlNDH,246127.82
+Snoctiflora,ndhG,Chloroplast,Chloroplast,ChlNDH,123993.68
+Snoctiflora,ndhH,Chloroplast,Chloroplast,ChlNDH,118050.56
+Snoctiflora,ndhI,Chloroplast,Chloroplast,ChlNDH,101003.66
+Snoctiflora,ndhJ,Chloroplast,Chloroplast,ChlNDH,176299.71
+Snoctiflora,ndhK,Chloroplast,Chloroplast,ChlNDH,175605.25
+Snoctiflora,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,2539.76
+Snoctiflora,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,2375.9
+Snoctiflora,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,2107.82
+Snoctiflora,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,785.04
+Snoctiflora,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,2112
+Snoctiflora,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,3233.24
+Snoctiflora,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,2133.3
+Snoctiflora,Clp ATPase,Nuclear,Chloroplast,ClpP,2185.41
+Snoctiflora,Clp ATPase,Nuclear,Chloroplast,ClpP,2176.75
+Snoctiflora,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,2065.37
+Snoctiflora,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,1634.77
+Snoctiflora,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,1742.58
+Snoctiflora,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,2080.97
+Snoctiflora,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,4777.43
+Snoctiflora,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,2496.25
+Snoctiflora,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,7249.64
+Snoctiflora,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,438.39
+Snoctiflora,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,2995.04
+Snoctiflora,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,244.9
+Snoctiflora,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,845.25
+Snoctiflora,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,1438.74
+Snoctiflora,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,1525.63
+Snoctiflora,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,1692.63
+Snoctiflora,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,1129.18
+Snoctiflora,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,185.95
+Snoctiflora,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,367.27
+Snoctiflora,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,246.55
+Snoctiflora,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,883.29
+Snoctiflora,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,399.99
+Vigna,AtpA,Chloroplast,Chloroplast,ChlAtp,153157.8
+Vigna,AtpB,Chloroplast,Chloroplast,ChlAtp,89058.19
+Vigna,AtpE,Chloroplast,Chloroplast,ChlAtp,122395.69
+Vigna,AtpF,Chloroplast,Chloroplast,ChlAtp,198600.85
+Vigna,AtpH,Chloroplast,Chloroplast,ChlAtp,260250.84
+Vigna,AtpI,Chloroplast,Chloroplast,ChlAtp,66069.88
+Vigna,ClpP,Chloroplast,Chloroplast,ClpP,67442.12
+Vigna,ndhA,Chloroplast,Chloroplast,ChlNDH,41602.25
+Vigna,ndhB,Chloroplast,Chloroplast,ChlNDH,44421.5
+Vigna,ndhC,Chloroplast,Chloroplast,ChlNDH,58409.59
+Vigna,ndhD,Chloroplast,Chloroplast,ChlNDH,54050.17
+Vigna,ndhE,Chloroplast,Chloroplast,ChlNDH,121190.89
+Vigna,ndhF,Chloroplast,Chloroplast,ChlNDH,10152
+Vigna,ndhG,Chloroplast,Chloroplast,ChlNDH,78026.76
+Vigna,ndhH,Chloroplast,Chloroplast,ChlNDH,43900.15
+Vigna,ndhI,Chloroplast,Chloroplast,ChlNDH,41611.32
+Vigna,ndhJ,Chloroplast,Chloroplast,ChlNDH,25952.46
+Vigna,ndhK,Chloroplast,Chloroplast,ChlNDH,73462.23
+Vigna,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,2680.84
+Vigna,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,2420.95
+Vigna,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,12886.52
+Vigna,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,1909.56
+Vigna,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,2323.46
+Vigna,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,6763.84
+Vigna,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,12647.2
+Vigna,Clp ATPase,Nuclear,Chloroplast,ClpP,3346.93
+Vigna,Clp ATPase,Nuclear,Chloroplast,ClpP,309.53
+Vigna,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,3209.85
+Vigna,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,758.18
+Vigna,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,980.34
+Vigna,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,3602.4
+Vigna,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,1073.69
+Vigna,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,2145.92
+Vigna,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,1543.82
+Vigna,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,788.36
+Vigna,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,1945.29
+Vigna,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,611.13
+Vigna,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,840.33
+Vigna,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,26415.67
+Vigna,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,19631.14
+Vigna,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,946.15
+Vigna,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,1531.45
+Vigna,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,1867.07
+Vigna,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,415.5
+Vigna,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,2410.81
+Vigna,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,3735.88
+Vigna,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,1284.68
+Vits,AtpA,Chloroplast,Chloroplast,ChlAtp,90205.67
+Vits,AtpB,Chloroplast,Chloroplast,ChlAtp,64064.97
+Vits,AtpE,Chloroplast,Chloroplast,ChlAtp,84456.21
+Vits,AtpF,Chloroplast,Chloroplast,ChlAtp,92876.95
+Vits,AtpH,Chloroplast,Chloroplast,ChlAtp,424181.29
+Vits,AtpI,Chloroplast,Chloroplast,ChlAtp,68156.13
+Vits,ClpP,Chloroplast,Chloroplast,ClpP,102005.59
+Vits,ndhA,Chloroplast,Chloroplast,ChlNDH,102145.66
+Vits,ndhB,Chloroplast,Chloroplast,ChlNDH,53576.41
+Vits,ndhC,Chloroplast,Chloroplast,ChlNDH,38526.16
+Vits,ndhD,Chloroplast,Chloroplast,ChlNDH,31132.07
+Vits,ndhE,Chloroplast,Chloroplast,ChlNDH,115828.13
+Vits,ndhF,Chloroplast,Chloroplast,ChlNDH,11042.81
+Vits,ndhG,Chloroplast,Chloroplast,ChlNDH,97184.62
+Vits,ndhH,Chloroplast,Chloroplast,ChlNDH,28443.48
+Vits,ndhI,Chloroplast,Chloroplast,ChlNDH,83168.34
+Vits,ndhJ,Chloroplast,Chloroplast,ChlNDH,79680.31
+Vits,ndhK,Chloroplast,Chloroplast,ChlNDH,53478.11
+Vits,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,1869.16
+Vits,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,4722.95
+Vits,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,5113.24
+Vits,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,10770.93
+Vits,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,1495.7
+Vits,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,5287.17
+Vits,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,5155.26
+Vits,Clp ATPase,Nuclear,Chloroplast,ClpP,5840.97
+Vits,Clp ATPase,Nuclear,Chloroplast,ClpP,6008.28
+Vits,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,5790.45
+Vits,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,1719.43
+Vits,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,785.31
+Vits,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,8125.88
+Vits,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,1415.1
+Vits,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,1333.29
+Vits,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,2538.42
+Vits,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,1543.16
+Vits,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,5400.16
+Vits,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,9952.43
+Vits,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,9928.72
+Vits,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,543.48
+Vits,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,1232.39
+Vits,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,1553.12
+Vits,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,1146.52
+Vits,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,2772.48
+Vits,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,572.46
+Arabidopsis_dataset2,AtpB,Chloroplast,Chloroplast,ChlAtp,55493.75
+Arabidopsis_dataset2,AtpA,Chloroplast,Chloroplast,ChlAtp,34464.56
+Arabidopsis_dataset2,AtpE,Chloroplast,Chloroplast,ChlAtp,54404.37
+Arabidopsis_dataset2,AtpF,Chloroplast,Chloroplast,ChlAtp,48849.57
+Arabidopsis_dataset2,AtpH,Chloroplast,Chloroplast,ChlAtp,102717.93
+Arabidopsis_dataset2,AtpI,Chloroplast,Chloroplast,ChlAtp,23748.41
+Arabidopsis_dataset2,ClpP,Chloroplast,Chloroplast,ClpP,178583.76
+Arabidopsis_dataset2,ndhA,Chloroplast,Chloroplast,ChlNDH,18618.83
+Arabidopsis_dataset2,ndhB,Chloroplast,Chloroplast,ChlNDH,15035.32
+Arabidopsis_dataset2,ndhC,Chloroplast,Chloroplast,ChlNDH,11763.52
+Arabidopsis_dataset2,ndhD,Chloroplast,Chloroplast,ChlNDH,25106.59
+Arabidopsis_dataset2,ndhE,Chloroplast,Chloroplast,ChlNDH,24661.92
+Arabidopsis_dataset2,ndhF,Chloroplast,Chloroplast,ChlNDH,6974.16
+Arabidopsis_dataset2,ndhG,Chloroplast,Chloroplast,ChlNDH,19494.49
+Arabidopsis_dataset2,ndhH,Chloroplast,Chloroplast,ChlNDH,14417.09
+Arabidopsis_dataset2,ndhI,Chloroplast,Chloroplast,ChlNDH,18420.6
+Arabidopsis_dataset2,ndhJ,Chloroplast,Chloroplast,ChlNDH,9977.23
+Arabidopsis_dataset2,ndhK,Chloroplast,Chloroplast,ChlNDH,8197.94
+Arabidopsis_dataset2,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,2960.58
+Arabidopsis_dataset2,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,3648.58
+Arabidopsis_dataset2,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,213.63
+Arabidopsis_dataset2,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,64287.36
+Arabidopsis_dataset2,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,4477.88
+Arabidopsis_dataset2,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,1396.58
+Arabidopsis_dataset2,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,20578.31
+Arabidopsis_dataset2,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,16864.3
+Arabidopsis_dataset2,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,5351.09
+Arabidopsis_dataset2,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,5298.86
+Arabidopsis_dataset2,Clp ATPase,Nuclear,Chloroplast,ClpP,5093.29
+Arabidopsis_dataset2,Clp ATPase,Nuclear,Chloroplast,ClpP,8623.31
+Arabidopsis_dataset2,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,7100.94
+Arabidopsis_dataset2,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,7437.46
+Arabidopsis_dataset2,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,4610.3
+Arabidopsis_dataset2,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,7166.2
+Arabidopsis_dataset2,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,5621.26
+Arabidopsis_dataset2,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,2936.22
+Arabidopsis_dataset2,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,7947.5
+Arabidopsis_dataset2,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,21928.43
+Arabidopsis_dataset2,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,580.39
+Arabidopsis_dataset2,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,1855.26
+Arabidopsis_dataset2,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,34579.69
+Arabidopsis_dataset2,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,24051.46
+Arabidopsis_dataset2,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,1147.98
+Arabidopsis_dataset2,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,2029.82
+Arabidopsis_dataset2,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,129.57
+Arabidopsis_dataset2,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,0
+Arabidopsis_dataset2,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,17718.22
+Arabidopsis_dataset1,AtpB,Chloroplast,Chloroplast,ChlAtp,205024.76
+Arabidopsis_dataset1,AtpA,Chloroplast,Chloroplast,ChlAtp,98116.53
+Arabidopsis_dataset1,AtpE,Chloroplast,Chloroplast,ChlAtp,137038.47
+Arabidopsis_dataset1,AtpF,Chloroplast,Chloroplast,ChlAtp,105445.45
+Arabidopsis_dataset1,AtpH,Chloroplast,Chloroplast,ChlAtp,1563888.51
+Arabidopsis_dataset1,AtpI,Chloroplast,Chloroplast,ChlAtp,61920.53
+Arabidopsis_dataset1,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,8205.22
+Arabidopsis_dataset1,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,8084.07
+Arabidopsis_dataset1,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,4.02
+Arabidopsis_dataset1,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,4578.59
+Arabidopsis_dataset1,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,8549.11
+Arabidopsis_dataset1,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,26.12
+Arabidopsis_dataset1,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,1225.11
+Arabidopsis_dataset1,ClpP,Chloroplast,Chloroplast,ClpP,251889.34
+Arabidopsis_dataset1,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,12579.83
+Arabidopsis_dataset1,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,1304.98
+Arabidopsis_dataset1,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,1289.7
+Arabidopsis_dataset1,Clp ATPase,Nuclear,Chloroplast,ClpP,549.6
+Arabidopsis_dataset1,Clp ATPase,Nuclear,Chloroplast,ClpP,4244.29
+Arabidopsis_dataset1,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,2261.21
+Arabidopsis_dataset1,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,2836.29
+Arabidopsis_dataset1,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,2452.26
+Arabidopsis_dataset1,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,1895.94
+Arabidopsis_dataset1,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,1362.79
+Arabidopsis_dataset1,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,148.35
+Arabidopsis_dataset1,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,2053.23
+Arabidopsis_dataset1,ndhA,Chloroplast,Chloroplast,ChlNDH,45488.28
+Arabidopsis_dataset1,ndhB,Chloroplast,Chloroplast,ChlNDH,23659.36
+Arabidopsis_dataset1,ndhC,Chloroplast,Chloroplast,ChlNDH,128578.57
+Arabidopsis_dataset1,ndhD,Chloroplast,Chloroplast,ChlNDH,45087.91
+Arabidopsis_dataset1,ndhE,Chloroplast,Chloroplast,ChlNDH,6111.49
+Arabidopsis_dataset1,ndhF,Chloroplast,Chloroplast,ChlNDH,5629.83
+Arabidopsis_dataset1,ndhG,Chloroplast,Chloroplast,ChlNDH,159721.52
+Arabidopsis_dataset1,ndhH,Chloroplast,Chloroplast,ChlNDH,11065.41
+Arabidopsis_dataset1,ndhI,Chloroplast,Chloroplast,ChlNDH,8797.61
+Arabidopsis_dataset1,ndhJ,Chloroplast,Chloroplast,ChlNDH,40099.22
+Arabidopsis_dataset1,ndhK,Chloroplast,Chloroplast,ChlNDH,60129.77
+Arabidopsis_dataset1,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,423.66
+Arabidopsis_dataset1,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,11261.95
+Arabidopsis_dataset1,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,15096.32
+Arabidopsis_dataset1,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,748.82
+Arabidopsis_dataset1,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,1047.41
+Arabidopsis_dataset1,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,1222.63
+Arabidopsis_dataset1,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,222.73
+Arabidopsis_dataset1,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,573.04
+Arabidopsis_dataset1,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,2611.47
+Arabidopsis_dataset1,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,973.29
+Arabidopsis_dataset3,AtpB,Chloroplast,Chloroplast,ChlAtp,117582.82
+Arabidopsis_dataset3,AtpA,Chloroplast,Chloroplast,ChlAtp,110130.94
+Arabidopsis_dataset3,AtpE,Chloroplast,Chloroplast,ChlAtp,114949.56
+Arabidopsis_dataset3,AtpF,Chloroplast,Chloroplast,ChlAtp,138164.84
+Arabidopsis_dataset3,AtpH,Chloroplast,Chloroplast,ChlAtp,543822.4
+Arabidopsis_dataset3,AtpI,Chloroplast,Chloroplast,ChlAtp,60401.51
+Arabidopsis_dataset3,ATP synthase delta-subunit gene,Nuclear,Chloroplast,ChlAtp,15407.55
+Arabidopsis_dataset3,"ATP synthase gamma chain 1, chloroplast (H(+)- transporting two-sector ATPase/F(1)- ATPase/ATPC1) identical to SP|Q01908 ATP synthase gamma chain 1, chloroplast precursor (EC 3.6.3.14) {Arabidopsis thaliana}",Nuclear,Chloroplast,ChlAtp,18344.28
+Arabidopsis_dataset3,"ATPase 10, plasma membranetype (proton pump 10) (protonexporting ATPase), putative strong similarity to SP|Q43128 ATPase 10, plasma membranetype (EC 3.6.3.6) (Proton pump 10) {Arabidopsis thaliana}; contains InterPro accession IPR001757: ATPase, E1-E2",Nuclear,Chloroplast,ChlAtp,15.6
+Arabidopsis_dataset3,ATPase 70 kDa subunit -related similar to ATPase 70 kDa subunit GI:558478 from [Brassica napus],Nuclear,Chloroplast,ChlAtp,5502.2
+Arabidopsis_dataset3,"ATPase, F0 complex, subunit B/B', bacterial/chloroplast",Nuclear,Chloroplast,ChlAtp,13642.46
+Arabidopsis_dataset3,"ATPase, F1 complex, gamma subunit protein",Nuclear,Chloroplast,ChlAtp,142.71
+Arabidopsis_dataset3,vacuolar ATP synthase subunit B identical to vacuolar ATP synthase subunit B SP:P11574 [P11574],Nuclear,Chloroplast,ChlAtp,2121.43
+Arabidopsis_dataset3,ClpP,Chloroplast,Chloroplast,ClpP,74812.84
+Arabidopsis_dataset3,ATP-dependent Clp protease ATP-binding subunit (ClpC1) almost identical to ClpC GI:2921158 from [Arabidopsis thaliana],Nuclear,Chloroplast,ClpP,12507.08
+Arabidopsis_dataset3,"ATP-dependent Clp protease proteolytic subunit (ClpP4) identical to nClpP4 GI:5360593 from[Arabidopsis thaliana]",Nuclear,Chloroplast,ClpP,3860.63
+Arabidopsis_dataset3,ATP-dependent Clp protease proteolytic subunit (ClpP6) identical to ATP-dependent Clp protease,Nuclear,Chloroplast,ClpP,2191.82
+Arabidopsis_dataset3,Clp ATPase,Nuclear,Chloroplast,ClpP,1803.28
+Arabidopsis_dataset3,Clp ATPase,Nuclear,Chloroplast,ClpP,1643.1
+Arabidopsis_dataset3,CLP protease proteolytic subunit 1,Nuclear,Chloroplast,ClpP,2827.5
+Arabidopsis_dataset3,CLP protease proteolytic subunit 2,Nuclear,Chloroplast,ClpP,3027.86
+Arabidopsis_dataset3,CLP protease proteolytic subunit 3,Nuclear,Chloroplast,ClpP,2240.03
+Arabidopsis_dataset3,CLP protease R subunit 4,Nuclear,Chloroplast,ClpP,2787.76
+Arabidopsis_dataset3,"expressed protein ClpC protease - Spinacia oleracea,PID:g4105131",Nuclear,Chloroplast,ClpP,2761.52
+Arabidopsis_dataset3,"HSP100/ClpB, putative similar to HSP100/ClpB GI:9651530 [Phaseolus lunatus]",Nuclear,Chloroplast,ClpP,76.59
+Arabidopsis_dataset3,nuclear encoded CLP protease 5,Nuclear,Chloroplast,ClpP,4690.1
+Arabidopsis_dataset3,ndhA,Chloroplast,Chloroplast,ChlNDH,30491.21
+Arabidopsis_dataset3,ndhB,Chloroplast,Chloroplast,ChlNDH,44741.08
+Arabidopsis_dataset3,ndhC,Chloroplast,Chloroplast,ChlNDH,42763.35
+Arabidopsis_dataset3,ndhD,Chloroplast,Chloroplast,ChlNDH,33227.47
+Arabidopsis_dataset3,ndhE,Chloroplast,Chloroplast,ChlNDH,56024.58
+Arabidopsis_dataset3,ndhF,Chloroplast,Chloroplast,ChlNDH,8224.56
+Arabidopsis_dataset3,ndhG,Chloroplast,Chloroplast,ChlNDH,44805.9
+Arabidopsis_dataset3,ndhH,Chloroplast,Chloroplast,ChlNDH,12442.32
+Arabidopsis_dataset3,ndhI,Chloroplast,Chloroplast,ChlNDH,21336.64
+Arabidopsis_dataset3,ndhJ,Chloroplast,Chloroplast,ChlNDH,31289.52
+Arabidopsis_dataset3,ndhK,Chloroplast,Chloroplast,ChlNDH,43700.76
+Arabidopsis_dataset3,"enoyl-[acyl-carrier protein] reductase [NADH] (enrA), putative similar to enoyl-[acyl-carrier protein] reductase [NADH] SP:P80030 from [Brassica napus]",Nuclear,Chloroplast,ChlNDH,2239.37
+Arabidopsis_dataset3,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,20748.66
+Arabidopsis_dataset3,"ferredoxin--NADP(+) reductase (adrenodoxin reductase), putative strong similarity to Ferredoxin-- NADP reductase, chloroplast precursor (EC 1.18.1.2) (FNR) from {Pisum sativum} SP|P10933, {Mesembryanthemum crystallinum} SP|P41343, {Spinacia oleracea} SP|P0",Nuclear,Chloroplast,ChlNDH,18388.3
+Arabidopsis_dataset3,"glutamate synthase [NADH], chloroplast, putative similar to SP|Q03460 Glutamate synthase [NADH], chloroplast precursor (EC 1.4.1.14) (NADHGOGAT) {Medicago sativa}",Nuclear,Chloroplast,ChlNDH,3030.19
+Arabidopsis_dataset3,"isocitrate dehydrogenase [NAD+], putative strong similarity to isocitrate dehydrogenase (NAD+) [Nicotiana tabacum] GI:3021506",Nuclear,Chloroplast,ChlNDH,1570.05
+Arabidopsis_dataset3,NAD(P)H dehydrogenase 18,Nuclear,Chloroplast,ChlNDH,2367.25
+Arabidopsis_dataset3,NAD(P)H dehydrogenase C1,Nuclear,Chloroplast,ChlNDH,372.08
+Arabidopsis_dataset3,NAD(P)H:plastoquinone dehydrogenase complex subunit O,Nuclear,Chloroplast,ChlNDH,2344.59
+Arabidopsis_dataset3,subunit NDH-M of NAD(P)H:plastoquinone dehydrogenase complex,Nuclear,Chloroplast,ChlNDH,2754.43
+Arabidopsis_dataset3,"""malate dehydrogenase [NAD], chloroplast, putative strong similarity to chloroplast NAD-malate dehydrogenase [Arabidopsis thaliana] GI:3256066; contains InterPro entry IPR001236: Lactate/malate dehydrogenase""",Nuclear,Chloroplast,ChlNDH,1838.24
