@@ -23,7 +23,7 @@ knitr::opts_chunk$set(
 
 [Include a summary of the paper you are reanalyzing data from]
 
-The following report demonstrates various data analysis replication featured in ***The Roles of Mutation, Selection, and Expression in Determining Relative Rates of Evolution in Mitochondrial versus Nuclear Genomes*** from Justin C Havird and Daniel B Sloan. This paper explores the interactions and relationships between the nuclear and mitochondrial genomes across a diverse range of species, specifically in protein complexes made up of subunits from both genomes. Two central hypotheses, nuclear compensation and selective constraints, are examined to explain the observation that mitochondrial-encoded subunits of OXPHOS enzyme complexes appear to perform more efficient selection as compared to nuclear-encoded subunits. 
+The following report demonstrates various data analysis replication featured in ***The Roles of Mutation, Selection, and Expression in Determining Relative Rates of Evolution in Mitochondrial versus Nuclear Genomes*** from Justin C Havird and Daniel B Sloan. This paper explores the interactions and relationships between the nuclear and mitochondrial genomes across a diverse range of species, specifically in protein complexes made up of subunits from both genomes. Two central hypotheses, nuclear compensation and selective constraints, are presented to explain the observation that mitochondrial-encoded subunits of OXPHOS enzyme complexes appear to perform more efficient selection as compared to nuclear-encoded subunits. These hypotheses are investigated by examining measures of mutation rate, selection, and gene expression and describing the relationships between these three variables. 
 
 ## Visualization of Data
 
@@ -49,16 +49,99 @@ head(supp3)
 
 ```{R}
 #Fig S1 Replication
+
+library(tidyverse)
+
+supp2 <- supp2 %>% 
+  mutate(GeneGroup = recode(GeneGroup, "Nuc-OXPHOS" = "NucOXPHOS"),
+         Lineage = case_when(TaxonomicGroup == "Rodents" ~ "Vertebrate", 
+          TaxonomicGroup == "Carnivores" ~ "Vertebrate",
+          TaxonomicGroup == "Primates" ~ "Vertebrate",
+          TaxonomicGroup == "Bats" ~ "Vertebrate",
+          TaxonomicGroup == "Cetartiodactyls" ~ "Vertebrate",
+          TaxonomicGroup == "Birds" ~ "Vertebrate",
+          TaxonomicGroup == "Reptiles" ~ "Vertebrate",
+          TaxonomicGroup == "Amphibians" ~ "Vertebrate",
+          TaxonomicGroup == "Teleosts" ~ "Vertebrate",
+          TaxonomicGroup == "Corals" ~ "Invertebrate",
+          TaxonomicGroup == "Dipterans" ~ "Invertebrate",
+          TaxonomicGroup == "Monocots" ~ "Angiosperm",
+          TaxonomicGroup == "Eudicots" ~ "Angiosperm",
+          TaxonomicGroup == "Silene" ~ "Angiosperm",
+          TaxonomicGroup == "Fungi (Aspergillus)" ~ "Fungi"))
+
+supp2 %>% filter(PAMLmodel == 1 & GeneGroup != "Nuc-Glycolysis") %>%
+  pivot_wider(id_cols = c(Lineage,
+                          TaxonomicGroup,
+                          Species.3.letter.codes.follow.KEGG.nomenclature.),
+              names_from = GeneGroup, 
+              values_from = c(dS, omega..dN.dS.)) %>%
+  mutate(dS_ratio=dS_Mt/dS_NucOXPHOS,
+         omega_ratio=omega..dN.dS._Mt/omega..dN.dS._NucOXPHOS) %>% 
+  ggplot(aes(x=dS_ratio,y=omega_ratio, color=Lineage)) + 
+  geom_point() + 
+  geom_smooth(aes(x=dS_ratio, y=omega_ratio),
+              method = "lm",
+              se = FALSE,
+              color = "black") + 
+  scale_x_log10() + 
+  scale_y_log10(breaks = c(0.10,1.0)) + 
+  labs(y = "ω-mt/ω-nuc", x = "dS-mt/dS-nuc") +
+  theme_bw()
 ```
+
+<img src="img/Havird2016_FigS1.jpeg" width="500px"/>
+
 
 ```{R}
 #Fig S4 Replication
+
+genes <- c("I", "II", "III", "IV", "RPL", "RPS", "V")
+
+arabidopsis <- c("Arabidopsis_dataset1" = "Arabidopsis (SRR1004790)",
+                 "Arabidopsis_dataset2" = "Arabidopsis (SRR1188596)",
+                 "Arabidopsis_dataset3" = "Arabidopsis (SRR1030235)")
+
+supp1 %>% slice(1:387) %>% filter(Complex %in% genes) %>%
+  ggplot(aes(Complex, FPKM, fill = Genome)) + 
+  geom_bar(stat="summary",
+           position= "dodge") +
+  facet_wrap(~ Species,
+             labeller = as_labeller(arabidopsis)) + 
+  scale_y_continuous(trans = "log10",
+                     breaks=c(100,1000,10000,100000,1000000)) +
+  geom_errorbar(stat="summary",
+                width=0.5,
+                position="dodge") + 
+  scale_fill_grey() + 
+  theme_bw()
 ```
+
+<img src="img/Havird2016_FigS4.jpeg" width="700px"/>
 
 ```{R}
 #Fig 5 Replication
+
+supp3 %>% ggplot(aes(log(FPKM),Omega)) +
+  geom_point(aes(fill=Genome),
+             color="black",
+             pch=21) + 
+  facet_wrap(. ~ Species, nrow=3) + 
+  ylim(0.01,1) + 
+  labs(y = "ω") +
+  geom_smooth(aes(log(FPKM),Omega,color=Genome),
+              method="lm",
+              se=FALSE) +
+  geom_smooth(aes(log(FPKM),Omega),
+              method="lm",
+              se=FALSE,
+              color="black") +
+  scale_color_manual(labels = c("Cp", "Mt", "Nuc"),
+                     values = c("pink", "green","blue")) +
+  theme_bw()
 ```
 
+<img src="img/Havird2016_Fig5.jpeg" width="600px"/>
 
 ## Summary/Discussion
 
