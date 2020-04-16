@@ -23,12 +23,23 @@ knitr::opts_chunk$set(
 
 [Include a summary of the paper you are reanalyzing data from]
 
+The following report demonstrates various data analysis replication featured in ***The Roles of Mutation, Selection, and Expression in Determining Relative Rates of Evolution in Mitochondrial versus Nuclear Genomes*** from Justin C Havird and Daniel B Sloan. This paper explores the interactions and relationships between the nuclear and mitochondrial genomes across a diverse range of species, specifically in protein complexes made up of subunits from both genomes. Two central hypotheses, nuclear compensation and selective constraints, are examined to explain the observation that mitochondrial-encoded subunits of OXPHOS enzyme complexes appear to perform more efficient selection as compared to nuclear-encoded subunits. 
+
 ## Visualization of Data
 
 [Include a view of the first few lines of the data set plus exploratory data analysis - e.g., overview of descriptive statistics included in the paper, plots, etc.]
 
 ```{R}
+#introduce and display using head() each of the datasets to be utilized. define the variables included in each of the files as well as their context to the goals of the paper. describe how you use the data in each of them to produce the figures featured in the below section to contextualize them. 
+supp1 <- read.csv("SupplDataFile1.csv", stringsAsFactors = FALSE)
+head(supp1)
+#Supplementary Data File 1 contains the neasure of transcript abundance (FPKM) for the genes examined in this paper. Observations include the species the gene in question is from, the name of the gene, the genome, the localization of the gene product, the OXPHOS complex the gene product resides in, and the transcript abundance measure. Specifically of note in this dataset are the three different sets of entries for *Arabidopsis* that were utilized to show the difference in transcript abundance across a number of varying complexes as featured in Figure S4 below. 
 
+supp2 <- read.csv("SupplDataFile2.csv", stringsAsFactors = FALSE)
+head(supp2)
+
+supp3 <- read.csv("SupplDataFile3.csv", stringsAsFactors = FALSE)
+head(supp3)
 ```
 
 
@@ -37,13 +48,24 @@ knitr::opts_chunk$set(
 [Be sure to explain what replications you are doing and comment your code so that it is easy for a reader to understand. Include in this section relevant tables/figures/values from the original paper for comparison to what you accomplished with your replication.]
 
 ```{R}
+#Fig S1 Replication
+```
 
+```{R}
+#Fig S4 Replication
+```
+
+```{R}
+#Fig 5 Replication
 ```
 
 
 ## Summary/Discussion
 
 [How successful were you at replicating the analyses and visualizations in the study? What problems did you encounter? Why might you have encountered those problems? What details were lacking from the original study's methods that might have hampered your ability to replicate the authors' results?]
+
+While I ultimately think I was successful in recreating the analyses and visuals I set out to replicate from this paper, the organization and presentation of the figures as they were laid out in the paper I drew the material from was somewhat unsuccessful in some cases. These seem to represent a lot of the "cleaning up" that must be done prior to publication. Additiionally, some of the analyses performed in the original paper (specifically those for the correlation values and p-values that were displayed on some of the figures featured above) utilized versions of the data that had been manipulated to minimize the effects of outliers and differences caused by phylogenetics. While I was able to perform some of these alterations (such as in the replication of Figure 5 where the y axis was limited to reduce the effects of outliers), controlling for the phylogenetic effects was somewhat neyond my currently knowledge of R and R Studio. 
+Overall, the paper provided most of the details necessary to replicate the results above and, as stated previously, most of the confusion or difficulty in replicating the figures above was due to my still limited practice in using the tools utilized to create this report. Some discrepancies in the organization of the data did cause some confusion though that could have been remedied by more clear organization in the datasets. Specifically, in Supplementary Figure 4, the three different *Arabidopsis* datasets are not labeled in the dataset how they are later described in the Supplementary Material. However, in comparing my replication with the figure in the paper, it was simple to identify which faceted figure belonged to which sample. 
 
 ## References
 
