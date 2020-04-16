@@ -3,8 +3,8 @@ title: "Data Analysis Replication Assignment"
 author: "Samantha Rabinowitz, sar4357"
 date: "4/16/2020"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
